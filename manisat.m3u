@@ -1,3 +1,81 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Athavan Tv
+https://telegram-bot-ttl.thirumurthy91.repl.co/athavantv
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Eye Tamil tv
+https://live.eyetamil.tv/tv/index.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",aus Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/ibc.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",IBC Tamil TV
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/bakthi.png" group-title="Ã Â®ÂªÃ Â®â€¢Ã Â¯ÂÃ Â®Â¤Ã Â®Â¿",IBC Bhakthi TV
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/music.png" group-title="Ã Â®ÂªÃ Â®Â¾Ã Â®Å¸Ã Â®Â²Ã Â¯Â",IBC Isai TV
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/comedy.png" group-title="Ã Â®Â¨Ã Â®â€¢Ã Â¯Ë†Ã Â®Å¡Ã Â¯ÂÃ Â®Å¡Ã Â¯ÂÃ Â®ÂµÃ Â¯Ë†",IBC Pakidi TV
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/canada.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",IBC Tamil Canada TV
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Astro Vaanavil HD
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Astro Vaanavil SD
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:-1 tvg-logo="https://www.dantv.lk/images/logo/DAN%20Tamil%20Oli-NEW.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",DAN Tamil Oli
+https://askmedia.livebox.co.in/DANTAMILOLIhls/DANTAMILOLI.m3u8
+#EXTINF:-1 tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Vasantham TV
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Tamil vision TV
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Tamil 3 TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="Ã Â®ÂªÃ Â®Å¸Ã Â®Â®Ã Â¯Â",Analai Express cinema HD
+http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" group-title="Ã Â®ÂªÃ Â®Å¸Ã Â®Â®Ã Â¯Â",MASS TAMIL HD TV
+http://tv2.massstream.net/Masstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="Ã Â®ÂªÃ Â®â€¢Ã Â¯ÂÃ Â®Â¤Ã Â®Â¿",Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 group-title="Ã Â®Å¡Ã Â¯â€ Ã Â®Â¯Ã Â¯ÂÃ Â®Â¤Ã Â®Â¿",dan news
+https://askmedia.livebox.co.in/DanNewshls/3.m3u8
+#EXTINF:-1 group-title="Ã Â®ÂªÃ Â®â€¢Ã Â¯ÂÃ Â®Â¤Ã Â®Â¿",Swastik
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1 group-title="News",Samugam
+https://ca.streamjo.com/live/samugam.m3u8
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="Ã Â®ÂªÃ Â®Å¸Ã Â®Â®Ã Â¯Â",MONTAMIL HD
+http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",MASS TAMIL HD TV
+http://tv2.massstream.net/Masstv/index.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",EEttv
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",vasantham TV
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Dan Tamil Oli
+https://askmedia.livebox.co.in/DANTAMILOLIhls/DANTAMILOLI.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",sooriyan Tv
+http://198.50.218.239:1935/sooriyantv/sooriyantv/playlist.m3u8
+#EXTINF:-1 group-title="Ã Â®Â¨Ã Â®â€¢Ã Â¯Ë†Ã Â®Å¡Ã Â¯ÂÃ Â®Å¡Ã Â¯ÂÃ Â®ÂµÃ Â¯Ë†",IBC comedy
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1 group-title="Ã Â®ÂªÃ Â®Â¾Ã Â®Å¸Ã Â®Â²Ã Â¯Â",IBC isai
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",IBC Tamil canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",TVi HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="Ã Â®ÂªÃ Â®â€¢Ã Â¯ÂÃ Â®Â¤Ã Â®Â¿",Ã Â®Å¡Ã Â®Â¿Ã Â®ÂµÃ Â®Â©Ã Â¯Â Ã Â®Å¸Ã Â®Â¿Ã Â®ÂµÃ Â®Â¿
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 group-title="Ã Â®ÂªÃ Â®â€¢Ã Â¯ÂÃ Â®Â¤Ã Â®Â¿",IBC bhakti
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 group-title="Ã Â®â€°Ã Â®Â²Ã Â®â€¢Ã Â®Â®Ã Â¯Â",Netra TV
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+
 
 #EXTM3U Exclusive to Tamil Live Links
 
@@ -1045,7 +1123,7 @@ http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.
 http://conference1.livebox.co.in:80/vedhatvhls/live.m3u8
 #EXTINF:-1 group-title="Local",ATN media
 http://indiamatrix.in:80/atn/atn.m3u8
-#EXTINF:-1 group-title="Local",à®¤à®¿ à®¨à¯†à®²à¯à®²à¯ˆ à®Ÿà¯ˆà®®à¯à®¸à¯
+#EXTINF:-1 group-title="Local",Ãƒ Ã‚Â®Ã‚Â¤Ãƒ Ã‚Â®Ã‚Â¿ Ãƒ Ã‚Â®Ã‚Â¨Ãƒ Ã‚Â¯Ã¢â‚¬ Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‹â€  Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â¯Ã‹â€ Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â¸Ãƒ Ã‚Â¯Ã‚Â
 http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
 #EXTINF:-1 group-title="Local",K channel
 http://indiamatrix.in:80/kchannel/kchannel.m3u8
@@ -1053,9 +1131,9 @@ http://indiamatrix.in:80/kchannel/kchannel.m3u8
 http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
 #EXTINF:-1 group-title="Movies",THARUN MOVIES
 http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
-#EXTINF:-1 group-title="Local",à®²à¯€à®ªà¯ à®µà®¿à®œà®¯à¯
+#EXTINF:-1 group-title="Local",Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã¢â€šÂ¬Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â¯Ã‚Â Ãƒ Ã‚Â®Ã‚ÂµÃƒ Ã‚Â®Ã‚Â¿Ãƒ Ã‚Â®Ã…â€œÃƒ Ã‚Â®Ã‚Â¯Ãƒ Ã‚Â¯Ã‚Â
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
-#EXTINF:-1 group-title="Local",à®µà®šà®¨à¯à®¤à¯
+#EXTINF:-1 group-title="Local",Ãƒ Ã‚Â®Ã‚ÂµÃƒ Ã‚Â®Ã…Â¡Ãƒ Ã‚Â®Ã‚Â¨Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â¤Ãƒ Ã‚Â¯Ã‚Â
 http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
 #EXTINF:-1 group-title="Local",Bhavani Sangmam TV
 http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
@@ -1065,15 +1143,15 @@ http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local",ASHOKA TV
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
-#EXTINF:-1 group-title="Local",à®…à®ªà®¿à®¨à®¯à®¾ à®®à®¿à®¯à¯‚à®šà®¿à®•à¯
+#EXTINF:-1 group-title="Local",Ãƒ Ã‚Â®Ã¢â‚¬Â¦Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¿Ãƒ Ã‚Â®Ã‚Â¨Ãƒ Ã‚Â®Ã‚Â¯Ãƒ Ã‚Â®Ã‚Â¾ Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â®Ã‚Â¿Ãƒ Ã‚Â®Ã‚Â¯Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã…Â¡Ãƒ Ã‚Â®Ã‚Â¿Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â¯Ã‚Â
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="Local",à®šà®¿à®™à¯à®•à®®à¯
+#EXTINF:-1 group-title="Local",Ãƒ Ã‚Â®Ã…Â¡Ãƒ Ã‚Â®Ã‚Â¿Ãƒ Ã‚Â®Ã¢â€žÂ¢Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1 group-title="Local",à®•à®²à¯ˆ à®‡à®šà¯ˆ
+#EXTINF:-1 group-title="Local",Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‹â€  Ãƒ Ã‚Â®Ã¢â‚¬Â¡Ãƒ Ã‚Â®Ã…Â¡Ãƒ Ã‚Â¯Ã‹â€ 
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
 #EXTINF:-1 group-title="Music",M music
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 group-title="Local",à®ªà¯‹à®©à®¸à¯
+#EXTINF:-1 group-title="Local",Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â¯Ã¢â‚¬Â¹Ãƒ Ã‚Â®Ã‚Â©Ãƒ Ã‚Â®Ã‚Â¸Ãƒ Ã‚Â¯Ã‚Â
 http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local",SLS
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
@@ -2661,552 +2739,553 @@ http://19233.live.streamtheworld.com/OMRADIO_S01AAC_SC
 
 
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Rasi Tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Rasi Tv
 http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Rasi tamil
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Rasi tamil
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
-#EXTINF:-1 group-title="à®ªà®Ÿà®®à¯",Rasi movies
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Rasi movies
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
-#EXTINF:-1 group-title="à®ªà®¾à®Ÿà®²à¯",Rasi music
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",Rasi music
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
-#EXTINF:-1 group-title="à®ªà®Ÿà®®à¯",Rasi hollywood
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Rasi hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
-#EXTINF:-1 group-title="à®ªà®Ÿà®®à¯",Rasi classic
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Rasi classic
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Barani media
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Barani media
 http://nikinfo.in:1935/nikstream/baranimedia/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Vision tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Vision tv
 http://198.144.149.206:8080/NOTV/VISIONTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/omtv.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",OM Tamil TV
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/omtv.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",OM Tamil TV
 http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",JEEVAN TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",JEEVAN TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sJQjbZm/AMMAN-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",AMMAN TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJQjbZm/AMMAN-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",AMMAN TV
 http://7starcloud.com:1935/live/ammantv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Cp0WGHWp_VQ7YAHmd6nhrw7smFDYGc34cy-4P1GtoEDQVXSyyvZX1QgoLO_n1_Gzr09s=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Sharvesh 7 StarTV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Cp0WGHWp_VQ7YAHmd6nhrw7smFDYGc34cy-4P1GtoEDQVXSyyvZX1QgoLO_n1_Gzr09s=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Sharvesh 7 StarTV
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970981_jawahar.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Jawahar TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970981_jawahar.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Jawahar TV
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43242.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Deepam TV
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43242.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Deepam TV
 http://ss.7starcloud.com:1935/live/deepam/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",SRI KRISHNA TV1
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",SRI KRISHNA TV1
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P9wuarZwGcZLHAlPRPPFgR-FH798KEr2lNNAgD_Jv3yLvTSD50vlW5JciFHPjs-RtVk=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Universe TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P9wuarZwGcZLHAlPRPPFgR-FH798KEr2lNNAgD_Jv3yLvTSD50vlW5JciFHPjs-RtVk=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Universe TV
 https://account24.livebox.co.in/UNIVERSETVhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8NQpb1KJAVzpw4iSA9-s1f0_V07msj70cj_iGgpC1H5SoOWRf5wslO23Eh7dyKeIyaQ=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",BS HD TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8NQpb1KJAVzpw4iSA9-s1f0_V07msj70cj_iGgpC1H5SoOWRf5wslO23Eh7dyKeIyaQ=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",BS HD TV
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/X3jc8QfsoukIP7lRp0MNkyqzcI3waY1DDBsql46HhJxPWi3T16qbTOomwhzDjE6a_Ljq=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",R TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/X3jc8QfsoukIP7lRp0MNkyqzcI3waY1DDBsql46HhJxPWi3T16qbTOomwhzDjE6a_Ljq=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",R TV
 http://live.singamcloud.in/rtv/rtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",KVM TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",KVM TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gXp1TGq8_eBaX_7P65GOjgT4w2yOmJwXy954VhDBfGZHp51QcBnMC87MCqCre1pTtDUm=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Rishi tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gXp1TGq8_eBaX_7P65GOjgT4w2yOmJwXy954VhDBfGZHp51QcBnMC87MCqCre1pTtDUm=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Rishi tv
 http://singamcloud.in/rishitv/rishitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oQbtzxc-fO-3_swoJXIDPRru5WLRbAk3IsBMnct0H3lKFLlYf7iwVtVWfJV55gR0Aw=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Blue Sky Media
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oQbtzxc-fO-3_swoJXIDPRru5WLRbAk3IsBMnct0H3lKFLlYf7iwVtVWfJV55gR0Aw=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Blue Sky Media
 http://198.144.149.206:8080/NOTV/BLUESKYMEDIA/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",News 80 Tamil
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",News 80 Tamil
 http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",News 12 prime
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",News 12 prime
 http://198.144.149.206:8080/NOTV/NEWS12PRIME/index.m3u8?token=GTR
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Bama HD
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Bama HD
 http://livematrix.in:80/bamahd/bamahd.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Rainbow HD
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Rainbow HD
 https://live2.sscloud7.com/rainbowhd.m3u8
-#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG91933.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",ASHOKA 1 TV
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG91933.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",ASHOKA 1 TV
 http://stream.ashokaserver.in/hls/ashokatv1.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bc6x5HeOLaPSyTrocVmSzVx8XrrsTJgXrrLvyN9NTB0Ma2AwV5SpTXFItwmiKw4Kff4W=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",SK TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bc6x5HeOLaPSyTrocVmSzVx8XrrsTJgXrrLvyN9NTB0Ma2AwV5SpTXFItwmiKw4Kff4W=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",SK TV
 http://bmlive.net:8000/SKTelevision/sktvlive/bms.m3u8?hls_ctx=gk4q43za
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06zwyNI-I6ez-vk23NPJfoTYfhyJEAJzhqczjYnon2ypvPj0sNHx9xvFo794bHfVqw=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",U TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06zwyNI-I6ez-vk23NPJfoTYfhyJEAJzhqczjYnon2ypvPj0sNHx9xvFo794bHfVqw=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",U TV
 http://shinestream.in:1935/utv/utv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/rktv/img/core-img/rktv.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",RK TV
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/rktv/img/core-img/rktv.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",RK TV
 https://sscloud7.com/hls/rktv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QsnylhFqQb15A_JxFJYEDt7V4akveg9096XkzSyg0Ol32OYENNbph8IfTWrr3EJXsg=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",KUMARI TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QsnylhFqQb15A_JxFJYEDt7V4akveg9096XkzSyg0Ol32OYENNbph8IfTWrr3EJXsg=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",KUMARI TV
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/suriyantv.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",SURIYAN TV HD
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/suriyantv.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",SURIYAN TV HD
 https://stream.sscloud7.com/hls/suriyantv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0gyxXVfumzvALZF5twb2EPNMyqP6G43lJgBDJlbjBenoZne7LjTHW9Ds76XE2NZYD7jx=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",JENIFER TVHD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0gyxXVfumzvALZF5twb2EPNMyqP6G43lJgBDJlbjBenoZne7LjTHW9Ds76XE2NZYD7jx=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",JENIFER TVHD
 http://jenifertv.phoenixcreations.online:1935/live/jenifertv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YchgYs9/NELLAITIMES-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",NELLAI TIMES TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YchgYs9/NELLAITIMES-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",NELLAI TIMES TV
 http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Suriya TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Suriya TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Sri Smart TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Sri Smart TV
 http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
-#EXTINF:-1 group-title="à®ªà®¾à®Ÿà®²à¯",Vmuisk TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",Vmuisk TV
 https://server.iptelevision.in/hls/vmuisk.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="à®ªà®¾à®Ÿà®²à¯",Singham Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",Singham Tv
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1 group-title="à®ªà®¾à®Ÿà®²à¯",ABHINAYA TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",ABHINAYA TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ktFafhaxQQYVgS3A-_WiuBhIWm9TBdkUdlJlKZhAN15QIWVZxKVWKXghIkFO-CLKeivm=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Malar  tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ktFafhaxQQYVgS3A-_WiuBhIWm9TBdkUdlJlKZhAN15QIWVZxKVWKXghIkFO-CLKeivm=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Malar  tv
 https://sscloud7.com/hls/malartv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Kongu TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Kongu TV
 http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IaItGTLnj8ro21WcaZ4GGOmUrueaOd_qpR1Cb71ENHfXcDJaLjJKS1NCg30aJRqhYkZ6=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Pop TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IaItGTLnj8ro21WcaZ4GGOmUrueaOd_qpR1Cb71ENHfXcDJaLjJKS1NCg30aJRqhYkZ6=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Pop TV
 http://ttv.7starcloud.com:1935/pop/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FhBVCPK/KCHANNEL-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",KCHANNEL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhBVCPK/KCHANNEL-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",KCHANNEL TV
 http://indiamatrix.in:80/kchannel/kchannel.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664776099_4444.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",MKPTV HD TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664776099_4444.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",MKPTV HD TV
 http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Royal TV
+#EXTINF:-1 tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Royal TV
 https://streamspace.live/hls/jptv/livestream.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",king
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",king
 http://account26.livebox.co.in/kinghls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w62mByb/SANGAMAM-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",SANGAMAM TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w62mByb/SANGAMAM-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",SANGAMAM TV
 http://livematrix.in:80/sangamamtv/sangamamtv.m3u8
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/skymedia.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Sky media TV
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/skymedia.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Sky media TV
 http://skymedia.phoenixcreations.online:1935/live/skymedia/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Arunai TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Arunai TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FlotusTv.png?alt=media&token=1c36ad57-f5c9-4783-8954-52cbcad72ce7" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Lotus TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FlotusTv.png?alt=media&token=1c36ad57-f5c9-4783-8954-52cbcad72ce7" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Lotus TV
 http://hdserver.7starcloud.com:1935/lotustv/live/playlist.m3u8
-#EXTINF:-1 group-title="à®ªà®Ÿà®®à¯",Tharun movies
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Tharun movies
 http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Ezhil tv HD
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Ezhil tv HD
 http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Orange tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Orange tv
 http://198.144.149.206:8080/NOTV/ORANGETV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/mithratv.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Mithra TV
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/mithratv.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Mithra TV
 http://mithratv.phoenixcreations.online:1935/mithratv/mithratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/skymedia.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Sky media TV
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/skymedia.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Sky media TV
 http://skymedia.phoenixcreations.online:1935/live/skymedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/favicon.ico" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Sasi TV
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/favicon.ico" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Sasi TV
 http://sasitv.phoenixcreations.online:1935/sasitv/sasitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctnconn.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",CTN(Connor)
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctnconn.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",CTN(Connor)
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
-#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG98811.png" group-title="à®ªà®Ÿà®®à¯",Ashoka2 HD TV
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG98811.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Ashoka2 HD TV
 http://stream.ashokaserver.in/hls/ashokatv2.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",SELFIE TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",SELFIE TV
 http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OVdwUScDMv8cbhiVbeA66MEgKDgDRpzZw1JQahCDOgvrNDremjXZJM4uL-D2VE2WggJT=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",RAGHUL TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OVdwUScDMv8cbhiVbeA66MEgKDgDRpzZw1JQahCDOgvrNDremjXZJM4uL-D2VE2WggJT=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",RAGHUL TV
 http://raghultv.phoenixcreations.online:1935/live/raghultv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201031-WA0003.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",King covai TV
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201031-WA0003.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",King covai TV
 https://account26.livebox.co.in/kinghls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",VDS TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",VDS TV
 http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3C5u0CffK0kC2V0l3sWHGuY6HKvyvegH81gzh1GGP_L6xazn0kPQlHJdSUQY5dFXigU=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",JJ NEWS HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3C5u0CffK0kC2V0l3sWHGuY6HKvyvegH81gzh1GGP_L6xazn0kPQlHJdSUQY5dFXigU=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",JJ NEWS HD
 http://live.singamcloud.in/jjnewstamil/jjnewstamil/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/molRWS7IdDHX34_-IXORodnxm3SbZewNLS3OuImchXUV8ZM4nPW6huF3HzX1lDG_yqE=w240-h480-rwhttps://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Tharani TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/molRWS7IdDHX34_-IXORodnxm3SbZewNLS3OuImchXUV8ZM4nPW6huF3HzX1lDG_yqE=w240-h480-rwhttps://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Tharani TV
 http://singamcloud.in/tharanitvtvl/tharanitvtvl/index.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1632988452_Ntv logo.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",N TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1632988452_Ntv logo.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",N TV
 https://server3.iptelevision.in/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FammaTv.PNG?alt=media&token=b167fdb3-04af-4a3a-bec0-4811f2e89837" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",AMMA TV LOCAL
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FammaTv.PNG?alt=media&token=b167fdb3-04af-4a3a-bec0-4811f2e89837" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",AMMA TV LOCAL
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",RIO TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",RIO TV
 http://singamcloud.in/riotv/riotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbossTv.jpg?alt=media&token=346ef211-37dd-4edf-8a70-f29c70fb088ahttps://play-lh.googleusercontent.com/ktFafhaxQQYVgS3A-_WiuBhIWm9TBdkUdlJlKZhAN15QIWVZxKVWKXghIkFO-CLKeivm=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Malar cloud tv
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbossTv.jpg?alt=media&token=346ef211-37dd-4edf-8a70-f29c70fb088ahttps://play-lh.googleusercontent.com/ktFafhaxQQYVgS3A-_WiuBhIWm9TBdkUdlJlKZhAN15QIWVZxKVWKXghIkFO-CLKeivm=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Malar cloud tv
 https://sscloud7.com/hls/malartv.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhavaniSangamamTv.png?alt=media&token=38795242-d3ca-4b47-954e-a9a66d0777e0" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Bhavani Sangmam TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhavaniSangamamTv.png?alt=media&token=38795242-d3ca-4b47-954e-a9a66d0777e0" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Bhavani Sangmam TV
 http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/30CQyXV/LEAF-VIJAY-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",LEAF VIJAY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/30CQyXV/LEAF-VIJAY-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",LEAF VIJAY TV
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FKM4W0R/Sunstar.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Sunstar
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FKM4W0R/Sunstar.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Sunstar
 http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Red Tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Red Tv
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZbK04V/SENTHUR-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",SENTHUR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZbK04V/SENTHUR-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",SENTHUR TV
 http://nextgeninfotech.ddns.net:8080/senthur/senthur.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcfjYB9/PCN.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",PCN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcfjYB9/PCN.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",PCN
 http://103.98.62.134:8080/gtv/gtv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/O8IWLJ0kdgOSMTZ_tr1V547Qgu3VLnQRx0-GMvoYgauNLIqKmEgXoXKcdA2MlvXT5t4=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Arunai TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/O8IWLJ0kdgOSMTZ_tr1V547Qgu3VLnQRx0-GMvoYgauNLIqKmEgXoXKcdA2MlvXT5t4=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Arunai TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",Sigaram TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",Sigaram TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Kanchi tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Kanchi tv
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Kanchi media tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Kanchi media tv
 http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Nila tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Nila tv
 http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SDigital
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SDigital
 http://nijamtv.indiamatrix.in/nijamtv/sdigital.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Dinesh TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Dinesh TV
 http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Jayaam TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Jayaam TV
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1fWnMJq/VEL-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",VEL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fWnMJq/VEL-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",VEL TV
 https://rasi.iptelevision.in/hls/veltv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W3RLQ96/AKASH-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",AKASH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W3RLQ96/AKASH-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",AKASH TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",GEM TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",GEM TV
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Annai TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Annai TV
 http://annaitv.livebox.co.in/annailivehls/live.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Udhayam TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Udhayam TV
 http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yyv3R/IMG-20210501-125800.png" group-title="à®ªà®¾à®Ÿà®²à¯",MN Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yyv3R/IMG-20210501-125800.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SMCV TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SMCV TV
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" group-title="à®ªà®¾à®Ÿà®²à¯",Apple TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpGyrxK/singam.jpg" group-title="à®ªà®¾à®Ÿà®²à¯",kalai isaiTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpGyrxK/singam.jpg" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",kalai isaiTV
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1597734373_sana.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Sana TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1597734373_sana.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Sana TV
 http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",JCV TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",JCV TV
 http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
-#EXTINF:-1 tvg-logo="https://image.pitchbook.com/OSufbDIEOugTlZRBGfp7Ug9MFMp1605446001086_200x200" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Media24 HD TV
+#EXTINF:-1 tvg-logo="https://image.pitchbook.com/OSufbDIEOugTlZRBGfp7Ug9MFMp1605446001086_200x200" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Media24 HD TV
 http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="à®ªà®Ÿà®®à¯",Kalai Cinema Tv
+#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Kalai Cinema Tv
 http://singamcloud.in/kalai/kalaicinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1620050127_TamilStar.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Tamil Star TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1620050127_TamilStar.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Tamil Star TV
 http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zm4hwZ6/sun-smart.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SMART TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zm4hwZ6/sun-smart.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SMART TV
 https://server.iptelevision.in/hls/sunsmart.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SRI KRISHNA TV2
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SRI KRISHNA TV2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",VINAYAGA TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",VINAYAGA TV
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qwwpNibuwIwq2rLoCDX4fPy6B6Mwa-oc_OJZRMCpJVGkDpN1T5DQw6CsXcYQbGHIZrw=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Jayam Namakal TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qwwpNibuwIwq2rLoCDX4fPy6B6Mwa-oc_OJZRMCpJVGkDpN1T5DQw6CsXcYQbGHIZrw=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Jayam Namakal TV
 http://ttv.7starcloud.com:1935/jayam/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669968335_vinmusic.jpg" group-title="à®ªà®¾à®Ÿà®²à¯",Vinayaga Music
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669968335_vinmusic.jpg" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",Vinayaga Music
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8M4FJyEL7aMbH3bIsDmyc6zaU_lO9EAhJFzRSo5mQ3LHosrpjLVgSnMuoDEr9hjk4KQP=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",TTV kanchi TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8M4FJyEL7aMbH3bIsDmyc6zaU_lO9EAhJFzRSo5mQ3LHosrpjLVgSnMuoDEr9hjk4KQP=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",TTV kanchi TV
 http://198.144.149.206:8080/NOTV/TTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",ANNAI Tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",ANNAI Tv
 http://annaitv.livebox.co.in/annailivehls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RMiNiCrv0ymLmCykkA5IC05A9EsDtm5292Q64K34s9EKzrjgxTHdp5Li7HsmRE3dG7af=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Eesan TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RMiNiCrv0ymLmCykkA5IC05A9EsDtm5292Q64K34s9EKzrjgxTHdp5Li7HsmRE3dG7af=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Eesan TV
 http://live.singamcloud.in/eesantv/eesantv/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FatnTv.png?alt=media&token=7d943cfb-2fd1-46dc-9a60-7c9b91712364" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",ATN HD TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FatnTv.png?alt=media&token=7d943cfb-2fd1-46dc-9a60-7c9b91712364" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",ATN HD TV
 http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.phoenixcreations.online/demo/admin/img/tvchannels/banner1683189926.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",APS TV
+#EXTINF:-1 tvg-logo="http://www.phoenixcreations.online/demo/admin/img/tvchannels/banner1683189926.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",APS TV
 http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MAYA TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MAYA TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Apple TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285ehttps://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Dark  TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285ehttps://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Dark  TV
 http://applelive.in/darktv/darktv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Sakthi TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Sakthi TV
 https://server2.iptelevision.in/hls/sakthitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TPbB78V/GD-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",GD TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPbB78V/GD-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",GD TV
 http://nextgeninfotech.ddns.net:8080/gdtv/gdtv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",NILA TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",NILA TV
 http://indiamatrix.in/nilatv/nilatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X8gmjMZ/MPTV-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MPTV TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8gmjMZ/MPTV-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MPTV TV
 http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",GEM TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",GEM TV
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Suriya TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Suriya TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png" group-title="à®ªà®¾à®Ÿà®²à¯",Isai Saral
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",Isai Saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qnIXAbVocmbXO5QxowinRsRosoMfvoA3LEyNNk2O3PKeyTXjQZEw73D-GXpL9Gsx_yBg=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MANASU TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qnIXAbVocmbXO5QxowinRsRosoMfvoA3LEyNNk2O3PKeyTXjQZEw73D-GXpL9Gsx_yBg=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MANASU TV
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8XdTvNaO4rS038acfQ1dnjXArh7rlkTl-SyNc-bHayck_v8IVhT-NbOxB4mXzmZpSk=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",LIME TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8XdTvNaO4rS038acfQ1dnjXArh7rlkTl-SyNc-bHayck_v8IVhT-NbOxB4mXzmZpSk=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",LIME TV
 http://limetv.phoenixcreations.online:1935/live/limetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j5zN6i_Bvoh8K9TJ5WjkyzcPfeVwWCWnuc97jGny4dARIe72hycqc20k61ALA7TbnOgs=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aadhavan TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j5zN6i_Bvoh8K9TJ5WjkyzcPfeVwWCWnuc97jGny4dARIe72hycqc20k61ALA7TbnOgs=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aadhavan TV
 http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://live.singamcloud.in/gtv/gtv/index.m3u8
-#EXTINF:-1 group-title="à®ªà®¾à®Ÿà®²à¯",SACHIN MUSIC TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",SACHIN MUSIC TV
 https://stream.sscloud7.com/sachinmusic.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Senthamizh Tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Senthamizh Tv
 http://live.singamcloud.in/senthamizhtv/senthamizhtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Kanaa tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Kanaa tv
 http://198.144.149.206:8080/NOTV/KANAA/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",AASAI TV Theni
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",AASAI TV Theni
 http://live.singamcloud.in/aasaitv/aasaitv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",VASANTH TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",VASANTH TV
 http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FssTvTirupur.png?alt=media&token=dc4fcab3-dc91-4bf4-88d0-afdb1f445825" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SSTV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FssTvTirupur.png?alt=media&token=dc4fcab3-dc91-4bf4-88d0-afdb1f445825" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SSTV
 http://68.183.82.116:8080/ssTV/ft86Iv8l.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1669361700_shalini.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Shalini TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1669361700_shalini.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Shalini TV
 http://bmlive.net:8000/Raja/shalinitvtvm/bms.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",TIRUPUR TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",TIRUPUR TV
 https://server3.iptelevision.in/hls/tirupurtv.m3u8p
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://bmlive.net:8000/gtv/gtv/bms.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669969207_aanandsang.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aananda Sangamam TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669969207_aanandsang.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aananda Sangamam TV
 http://Anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MSNTV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MSNTV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Vanavil Plus TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Vanavil Plus TV
 https://rasi.iptelevision.in/hls/vanaviltv.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",S TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",S TV
 http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Mirchi HD TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Mirchi HD TV
 http://new.7starcloud.com:1935/mercy/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gkSY_iux_VFwGhJLUEqHGgrAr63Q2-1tsg-keJcSrXdhjlfQGtqE8w50o_BqIMCC-FCU=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Live Royal TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gkSY_iux_VFwGhJLUEqHGgrAr63Q2-1tsg-keJcSrXdhjlfQGtqE8w50o_BqIMCC-FCU=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Live Royal TV
 https://live.sscloud7.com/liveroyaltv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wmEtgSjC0zsvTSsw-OHXy_qdqi5GWXhP5EYhrpxlv-jVqk3Ji-M2keTBVz4Hs_duzD0=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Mayuri TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wmEtgSjC0zsvTSsw-OHXy_qdqi5GWXhP5EYhrpxlv-jVqk3Ji-M2keTBVz4Hs_duzD0=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Mayuri TV
 https://live2.sscloud7.com/hls/mayuritv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ax8sHwjn-Xg_KLYck7-HrFuUWOJRJoJ-UdLmBwF0mvqZXOnAiLRFX1vdo6wmayV9kA=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Anandam shine TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ax8sHwjn-Xg_KLYck7-HrFuUWOJRJoJ-UdLmBwF0mvqZXOnAiLRFX1vdo6wmayV9kA=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Anandam shine TV
 http://shinestream.in:1935/anandamtv/svc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aarthi TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aarthi TV
 http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Visaka TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Visaka TV
 http://live.singamcloud.in/visakatv/visakatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWk5PWQ/OSCAR-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",OSCAR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWk5PWQ/OSCAR-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",OSCAR TV
 https://oscartv.livebox.co.in/oscarchannelbrocasthls/oscar.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Amn Tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Amn Tv
 https://sscloud7.com/hls/amntv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",DEVADHAI TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",DEVADHAI TV
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SRI TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SRI TV
 https://server3.iptelevision.in/hls/sritv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Cheran TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Cheran TV
 http://web.applelive.in/hls/cherantv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tm3Bdsn/Velavan-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Velavan TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tm3Bdsn/Velavan-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Velavan TV
 https://server3.iptelevision.in/hls/dharapuram.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://live.singamcloud.in/gtv/gtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MSN TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MSN TV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",LIVESAI TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",LIVESAI TV
 https://live.sscloud7.com/hls/livesaitv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",NAMATHU SANGAMAM TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",NAMATHU SANGAMAM TV
 http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670026176_spice.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Spice TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670026176_spice.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Spice TV
 https://iptelevision.in/hls/spicetv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Cheran TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Cheran TV
 http://web.applelive.in/hls/cherantv.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",S cloud TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",S cloud TV
 http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrjLogo.png?alt=media&token=d60a848f-d60b-47fa-98a4-95f76f15a28e" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",RJ Logo
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrjLogo.png?alt=media&token=d60a848f-d60b-47fa-98a4-95f76f15a28e" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",RJ Logo
 https://wmoy8ngoy2a7-hls-live.5centscdn.com/rjtamil/livetv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",jayam tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",jayam tv
 http://103.147.60.4:1935/live/jayamtv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",digital TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",digital TV
 http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",amma tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",amma tv
 http://annaitv.livebox.co.in/ammatvhls/live.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",shree tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",shree tv
 http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MDN TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MDN TV
 https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KKItaxefsreCIH1wYDjR0cKUH-SH5VodzEKi4yB4mLVrFttwANxLAekN2MNNDeveMFBT=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Maa TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KKItaxefsreCIH1wYDjR0cKUH-SH5VodzEKi4yB4mLVrFttwANxLAekN2MNNDeveMFBT=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Maa TV
 http://live.singamcloud.in/maatv/maatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Sakthi TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Sakthi TV
 https://server2.iptelevision.in/hls/sakthitv.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive/upload/1679748284_mtv.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",M TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive/upload/1679748284_mtv.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",M TV
 http://media.7starcloud.com:1935/harimedia/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7qHJeBlm4sfbn7Uygt5K8cOyoSaAB8WUhtbYxPY7adxh43hDBy2LPSj-gSn5lR7tjdDE=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SRI SHIVA SHAKTHI TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7qHJeBlm4sfbn7Uygt5K8cOyoSaAB8WUhtbYxPY7adxh43hDBy2LPSj-gSn5lR7tjdDE=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SRI SHIVA SHAKTHI TV
 https://live.sscloud7.com/hls/ssstv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uMCqldnh2H_JPGeqG4yU0KImJO0f36Px8PyFfupUJvOZP5ZtHnzpFSWupape8-wHqfc=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Vetri Media TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uMCqldnh2H_JPGeqG4yU0KImJO0f36Px8PyFfupUJvOZP5ZtHnzpFSWupape8-wHqfc=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Vetri Media TV
 https://stream.sscloud7.com/hls/vetritv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aadhavan Tamil tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aadhavan Tamil tv
 http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Ragam tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Ragam tv
 http://stream.singamcloud.in/ragamtv/ragamtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",9 star
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",9 star
 http://198.144.149.206:8080/NOTV/NINETV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",RAM TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",RAM TV
 http://media.7starcloud.com:1935/harimedia/ramtv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SLS TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MM TV Madurai
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MM TV Madurai
 http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NrqR_4bhSuCEW0o-2rZYuB631PuKn2is9IoFbMEvr51IxduUQ6adR7EvIMHdB9SUVA=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Vajra TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NrqR_4bhSuCEW0o-2rZYuB631PuKn2is9IoFbMEvr51IxduUQ6adR7EvIMHdB9SUVA=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Vajra TV
 https://ott.iptelevisiontv.com/hls/vjira.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Visaka TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Visaka TV
 http://live.singamcloud.in/visakatv/visakatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Suriyan Nextgen TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Suriyan Nextgen TV
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",KMD TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",KMD TV
 https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BJ9AD-guLna15UC8QMCD7peFpRIwHWS-gtmDhvrEZ-EuHqV7-sJB_GKDUwI1LE4E5e8=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Vedha TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BJ9AD-guLna15UC8QMCD7peFpRIwHWS-gtmDhvrEZ-EuHqV7-sJB_GKDUwI1LE4E5e8=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Vedha TV
 https://live1.sscloud7.com/hls/vedhatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X4qnnLF/ANBU-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",ANBU TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X4qnnLF/ANBU-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",ANBU TV
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",UDHAYAM TV TRICHY
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",UDHAYAM TV TRICHY
 http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V0n9jJDQba8PejGd5sFNrcAojqsdARrcjWIGrfb7J61hRFoxhPGVT0lR95tyfm4IvyzM=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Rplus  TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V0n9jJDQba8PejGd5sFNrcAojqsdARrcjWIGrfb7J61hRFoxhPGVT0lR95tyfm4IvyzM=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Rplus  TV
 http://cloud.applelive.in/hls/rplustv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Sakthi TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Sakthi TV
 https://server2.iptelevision.in/hls/sakthitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SURIYA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SURIYA
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",NEOTAMIL TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",NEOTAMIL TV
 https://server2.iptelevision.in/newtamil.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",NRS TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",NRS TV
 https://live1.sscloud7.com/hls/nrstv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",rowthiram
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",rowthiram
 http://cloudlive.co.in/rowthiramtv/rowthiramtv.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Reach TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Pdj82M12WODKocoFhrXgbdi0souwpe4a38A5qPDDtbUNEm6XPpR7PbBqvNIU6Zj7kQ=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Pdj82M12WODKocoFhrXgbdi0souwpe4a38A5qPDDtbUNEm6XPpR7PbBqvNIU6Zj7kQ=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://gtv.phoenixcreations.online:1935/gtv/gtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aadhavan TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aadhavan TV
 http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png" group-title="à®ªà®¾à®Ÿà®²à¯",Isai Saral
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",Isai Saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qnIXAbVocmbXO5QxowinRsRosoMfvoA3LEyNNk2O3PKeyTXjQZEw73D-GXpL9Gsx_yBg=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MANASU TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qnIXAbVocmbXO5QxowinRsRosoMfvoA3LEyNNk2O3PKeyTXjQZEw73D-GXpL9Gsx_yBg=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MANASU TV
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8XdTvNaO4rS038acfQ1dnjXArh7rlkTl-SyNc-bHayck_v8IVhT-NbOxB4mXzmZpSk=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",LIME TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8XdTvNaO4rS038acfQ1dnjXArh7rlkTl-SyNc-bHayck_v8IVhT-NbOxB4mXzmZpSk=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",LIME TV
 http://limetv.phoenixcreations.online:1935/live/limetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j5zN6i_Bvoh8K9TJ5WjkyzcPfeVwWCWnuc97jGny4dARIe72hycqc20k61ALA7TbnOgs=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aadhavan TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j5zN6i_Bvoh8K9TJ5WjkyzcPfeVwWCWnuc97jGny4dARIe72hycqc20k61ALA7TbnOgs=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aadhavan TV
 http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://live.singamcloud.in/gtv/gtv/index.m3u8
-#EXTINF:-1 group-title="à®ªà®¾à®Ÿà®²à¯",SACHIN MUSIC TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã‚Â¾Ãƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â¯Ã‚Â",SACHIN MUSIC TV
 https://stream.sscloud7.com/sachinmusic.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Senthamizh Tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Senthamizh Tv
 http://live.singamcloud.in/senthamizhtv/senthamizhtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Kanaa tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Kanaa tv
 http://198.144.149.206:8080/NOTV/KANAA/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",AASAI TV Theni
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",AASAI TV Theni
 http://live.singamcloud.in/aasaitv/aasaitv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",VASANTH TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",VASANTH TV
 http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FssTvTirupur.png?alt=media&token=dc4fcab3-dc91-4bf4-88d0-afdb1f445825" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SSTV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FssTvTirupur.png?alt=media&token=dc4fcab3-dc91-4bf4-88d0-afdb1f445825" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SSTV
 http://68.183.82.116:8080/ssTV/ft86Iv8l.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1669361700_shalini.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Shalini TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1669361700_shalini.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Shalini TV
 http://bmlive.net:8000/Raja/shalinitvtvm/bms.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",TIRUPUR TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",TIRUPUR TV
 https://server3.iptelevision.in/hls/tirupurtv.m3u8p
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://bmlive.net:8000/gtv/gtv/bms.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669969207_aanandsang.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aananda Sangamam TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669969207_aanandsang.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aananda Sangamam TV
 http://Anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MSNTV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MSNTV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Vanavil Plus TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Vanavil Plus TV
 https://rasi.iptelevision.in/hls/vanaviltv.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",S TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",S TV
 http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Mirchi HD TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Mirchi HD TV
 http://new.7starcloud.com:1935/mercy/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gkSY_iux_VFwGhJLUEqHGgrAr63Q2-1tsg-keJcSrXdhjlfQGtqE8w50o_BqIMCC-FCU=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Live Royal TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gkSY_iux_VFwGhJLUEqHGgrAr63Q2-1tsg-keJcSrXdhjlfQGtqE8w50o_BqIMCC-FCU=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Live Royal TV
 https://live.sscloud7.com/liveroyaltv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wmEtgSjC0zsvTSsw-OHXy_qdqi5GWXhP5EYhrpxlv-jVqk3Ji-M2keTBVz4Hs_duzD0=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Mayuri TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wmEtgSjC0zsvTSsw-OHXy_qdqi5GWXhP5EYhrpxlv-jVqk3Ji-M2keTBVz4Hs_duzD0=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Mayuri TV
 https://live2.sscloud7.com/hls/mayuritv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ax8sHwjn-Xg_KLYck7-HrFuUWOJRJoJ-UdLmBwF0mvqZXOnAiLRFX1vdo6wmayV9kA=w480-h960-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Anandam shine TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ax8sHwjn-Xg_KLYck7-HrFuUWOJRJoJ-UdLmBwF0mvqZXOnAiLRFX1vdo6wmayV9kA=w480-h960-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Anandam shine TV
 http://shinestream.in:1935/anandamtv/svc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aarthi TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aarthi TV
 http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Visaka TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Visaka TV
 http://live.singamcloud.in/visakatv/visakatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWk5PWQ/OSCAR-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯ HD",OSCAR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWk5PWQ/OSCAR-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â HD",OSCAR TV
 https://oscartv.livebox.co.in/oscarchannelbrocasthls/oscar.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Amn Tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Amn Tv
 https://sscloud7.com/hls/amntv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",DEVADHAI TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",DEVADHAI TV
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SRI TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SRI TV
 https://server3.iptelevision.in/hls/sritv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Cheran TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Cheran TV
 http://web.applelive.in/hls/cherantv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tm3Bdsn/Velavan-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Velavan TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tm3Bdsn/Velavan-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Velavan TV
 https://server3.iptelevision.in/hls/dharapuram.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://live.singamcloud.in/gtv/gtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MSN TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MSN TV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",LIVESAI TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",LIVESAI TV
 https://live.sscloud7.com/hls/livesaitv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",NAMATHU SANGAMAM TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",NAMATHU SANGAMAM TV
 http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670026176_spice.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Spice TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670026176_spice.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Spice TV
 https://iptelevision.in/hls/spicetv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Cheran TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Cheran TV
 http://web.applelive.in/hls/cherantv.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",S cloud TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664090032_stv.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",S cloud TV
 http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrjLogo.png?alt=media&token=d60a848f-d60b-47fa-98a4-95f76f15a28e" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",RJ Logo
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrjLogo.png?alt=media&token=d60a848f-d60b-47fa-98a4-95f76f15a28e" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",RJ Logo
 https://wmoy8ngoy2a7-hls-live.5centscdn.com/rjtamil/livetv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",jayam tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",jayam tv
 http://103.147.60.4:1935/live/jayamtv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",digital TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",digital TV
 http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",amma tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",amma tv
 http://annaitv.livebox.co.in/ammatvhls/live.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",shree tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",shree tv
 http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MDN TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MDN TV
 https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KKItaxefsreCIH1wYDjR0cKUH-SH5VodzEKi4yB4mLVrFttwANxLAekN2MNNDeveMFBT=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Maa TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KKItaxefsreCIH1wYDjR0cKUH-SH5VodzEKi4yB4mLVrFttwANxLAekN2MNNDeveMFBT=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Maa TV
 http://live.singamcloud.in/maatv/maatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Sakthi TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Sakthi TV
 https://server2.iptelevision.in/hls/sakthitv.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive/upload/1679748284_mtv.jpg" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",M TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive/upload/1679748284_mtv.jpg" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",M TV
 http://media.7starcloud.com:1935/harimedia/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7qHJeBlm4sfbn7Uygt5K8cOyoSaAB8WUhtbYxPY7adxh43hDBy2LPSj-gSn5lR7tjdDE=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SRI SHIVA SHAKTHI TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7qHJeBlm4sfbn7Uygt5K8cOyoSaAB8WUhtbYxPY7adxh43hDBy2LPSj-gSn5lR7tjdDE=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SRI SHIVA SHAKTHI TV
 https://live.sscloud7.com/hls/ssstv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uMCqldnh2H_JPGeqG4yU0KImJO0f36Px8PyFfupUJvOZP5ZtHnzpFSWupape8-wHqfc=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Vetri Media TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uMCqldnh2H_JPGeqG4yU0KImJO0f36Px8PyFfupUJvOZP5ZtHnzpFSWupape8-wHqfc=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Vetri Media TV
 https://stream.sscloud7.com/hls/vetritv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aadhavan Tamil tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aadhavan Tamil tv
 http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Ragam tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Ragam tv
 http://stream.singamcloud.in/ragamtv/ragamtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",9 star
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",9 star
 http://198.144.149.206:8080/NOTV/NINETV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",RAM TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",RAM TV
 http://media.7starcloud.com:1935/harimedia/ramtv/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SLS TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",MM TV Madurai
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",MM TV Madurai
 http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NrqR_4bhSuCEW0o-2rZYuB631PuKn2is9IoFbMEvr51IxduUQ6adR7EvIMHdB9SUVA=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Vajra TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NrqR_4bhSuCEW0o-2rZYuB631PuKn2is9IoFbMEvr51IxduUQ6adR7EvIMHdB9SUVA=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Vajra TV
 https://ott.iptelevisiontv.com/hls/vjira.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Visaka TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Visaka TV
 http://live.singamcloud.in/visakatv/visakatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Suriyan Nextgen TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Suriyan Nextgen TV
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",KMD TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",KMD TV
 https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BJ9AD-guLna15UC8QMCD7peFpRIwHWS-gtmDhvrEZ-EuHqV7-sJB_GKDUwI1LE4E5e8=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Vedha TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BJ9AD-guLna15UC8QMCD7peFpRIwHWS-gtmDhvrEZ-EuHqV7-sJB_GKDUwI1LE4E5e8=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Vedha TV
 https://live1.sscloud7.com/hls/vedhatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X4qnnLF/ANBU-TV.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",ANBU TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X4qnnLF/ANBU-TV.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",ANBU TV
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",UDHAYAM TV TRICHY
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",UDHAYAM TV TRICHY
 http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V0n9jJDQba8PejGd5sFNrcAojqsdARrcjWIGrfb7J61hRFoxhPGVT0lR95tyfm4IvyzM=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Rplus  TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V0n9jJDQba8PejGd5sFNrcAojqsdARrcjWIGrfb7J61hRFoxhPGVT0lR95tyfm4IvyzM=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Rplus  TV
 http://cloud.applelive.in/hls/rplustv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Sakthi TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Sakthi TV
 https://server2.iptelevision.in/hls/sakthitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",SURIYA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",SURIYA
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",NEOTAMIL TV
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",NEOTAMIL TV
 https://server2.iptelevision.in/newtamil.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",NRS TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",NRS TV
 https://live1.sscloud7.com/hls/nrstv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",rowthiram
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",rowthiram
 http://cloudlive.co.in/rowthiramtv/rowthiramtv.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Reach TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Pdj82M12WODKocoFhrXgbdi0souwpe4a38A5qPDDtbUNEm6XPpR7PbBqvNIU6Zj7kQ=w240-h480-rw" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",G TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Pdj82M12WODKocoFhrXgbdi0souwpe4a38A5qPDDtbUNEm6XPpR7PbBqvNIU6Zj7kQ=w240-h480-rw" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",G TV
 http://gtv.phoenixcreations.online:1935/gtv/gtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Aadhavan TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Aadhavan TV
 http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Anandha tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Anandha tv
 http://198.144.149.206:8080/NOTV/ANANDHATV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",S max tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",S max tv
 http://cloudlive.co.in/smaxtv/smaxtv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Thendral tv 1
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Thendral tv 1
 https://1cloud.digital/Thentralaathi/thendral1.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Thendral tv 2
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Thendral tv 2
 https://1cloud.digital/thentralaathi/Thentralaathi.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Thangam tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Thangam tv
 http://live.singamcloud.in/thangamtv/thangamtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Riya tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Riya tv
 http://applelive.in/riyatv/riyatv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Dhoni tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Dhoni tv
 http://siptoa.com:1935/dhoni/tv/siptoa.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Sachin music
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Sachin music
 https://stream.sscloud7.com/sachinmusic.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Sri Bhagavan tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Sri Bhagavan tv
 https://1cloud.digital/sriarjuntv/sribhagavan.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",R Plus tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",R Plus tv
 http://cloud.applelive.in/hls/rplustv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Ragam tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Ragam tv
 http://stream.singamcloud.in/ragamtv/ragamtv/index.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",7 star tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",7 star tv
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Siva tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Siva tv
 https://1cloud.digital/sivatv/sivatv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Malar tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Malar tv
 https://live2.sscloud7.com/livemalartv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Kanaa tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Kanaa tv
 http://198.144.149.206:8080/NOTV/KANAA/index.m3u8?token=GTR
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Hai tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Hai tv
 http://applelive.in/haitv/haitv.m3u8
-#EXTINF:-1 group-title="à®‰à®³à¯à®³à¯‚à®°à¯",Veera tv
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â³Ãƒ Ã‚Â¯Ã¢â‚¬Å¡Ãƒ Ã‚Â®Ã‚Â°Ãƒ Ã‚Â¯Ã‚Â",Veera tv
 http://live.singamcloud.in/veeratv/veeratv/index.m3u8
+
