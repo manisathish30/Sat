@@ -1,8 +1,9 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sAX8_CgMYbD7UUpnZh5fJHzmQT_w4RwjlKJZwIg-GKaWI6iZsuWXhzKsyDB-0WlHVIHC=w240-h480-rw" group-title="TLL MUSIC",MEN TV
-https://1cloud.digital/mentv/mentvhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="TLL LOCAL HD",MM TV Madurai
 http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sAX8_CgMYbD7UUpnZh5fJHzmQT_w4RwjlKJZwIg-GKaWI6iZsuWXhzKsyDB-0WlHVIHC=w240-h480-rw" group-title="TLL MUSIC",MEN TV
+https://1cloud.digital/mentv/mentvhd.m3u8
 
 #EXTINF:-1 group-title="Tamil",VijaySupertv
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=155875&extension=m3u8&play_token=19lN2YqIw2.
