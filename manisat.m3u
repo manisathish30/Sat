@@ -1,4 +1,249 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", &flix HD-Rs 19
+http://14.102.123.50:4000/play/a04w
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", &pictures HD -Rs 19
+http://14.102.123.50:4000/play/a05d
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", &prive HD-Rs 6
+http://14.102.123.50:4000/play/a05j
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", 1SPORTS@
+http://14.102.123.50:4000/play/a0g8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Animal PlanetHD-Rs5
+http://14.102.123.50:4000/play/a057
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Cartoon NW-Rs4.25
+http://14.102.123.50:4000/play/a05t
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Colors HD-Rs 19
+http://14.102.123.50:4000/play/a04v
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Discovery HD-Rs8
+http://14.102.123.50:4000/play/a04f
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Discovery Kids-Rs3.50
+http://14.102.123.50:4000/play/a064
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", DiscoveryScienc-Rs1
+http://14.102.123.50:4000/play/a095
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", DiscoveryTurbo-Rs1
+http://14.102.123.50:4000/play/a096
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Disney Jr.-Rs 4
+http://14.102.123.50:4000/play/a05y
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Disney-Rs 10
+http://14.102.123.50:4000/play/a05v
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", EUROSPORT HD-Rs 5.50
+http://14.102.123.50:4000/play/a04y
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", FOX Life HD-Rs 2
+http://14.102.123.50:4000/play/a05r
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", HISTORY TV18 HD-Rs7
+http://14.102.123.50:4000/play/a059
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Investigation D-Rs1
+http://14.102.123.50:4000/play/a045
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", JAYA PLUS@
+http://14.102.123.50:4000/play/a0hg
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Jalsha Movies-SD@
+http://14.102.123.50:4000/play/a0hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", JalshaMoviesHD-Rs19
+http://14.102.123.50:4000/play/a092
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MH ONE @
+http://14.102.123.50:4000/play/a0fy
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MN+ HD-Rs 8
+http://14.102.123.50:4000/play/a04b
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MTV - Rs 3
+http://14.102.123.50:4000/play/a061
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Nat Geo HD-Rs14
+http://14.102.123.50:4000/play/a04e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Nick Jr.- Rs 1
+http://14.102.123.50:4000/play/a063
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", PTC chakde@
+http://14.102.123.50:4000/play/a0g5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Pogo - Rs 4.25
+http://14.102.123.50:4000/play/a060
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SET HD - Rs 19
+http://14.102.123.50:4000/play/a04x
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SONIC- Rs 2
+http://14.102.123.50:4000/play/a05z
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SONY AATH@
+http://14.102.123.50:4000/play/a0gi
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SONY MAX 2 - Rs 1
+http://14.102.123.50:4000/play/a05q
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SONY MAX HD -Rs 19
+http://14.102.123.50:4000/play/a042
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SONY PAL - 50p
+http://14.102.123.50:4000/play/a053
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SONY PIX HD - Rs 19
+http://14.102.123.50:4000/play/a05c
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", STAR BHARAT HD-Rs 19
+http://14.102.123.50:4000/play/a056
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", STAR JALSHA HD-Rs19
+http://14.102.123.50:4000/play/a070
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", STAR MOVIES HD-Rs19
+http://14.102.123.50:4000/play/a04c
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SUN MUSIC HD-Rs19
+http://14.102.123.50:4000/play/a071
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SUN TV HD-Rs 19
+http://14.102.123.50:4000/play/a06z
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Sony Ten 1 HD-Rs19
+http://14.102.123.50:4000/play/a03p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Sony Ten 2 HD-Rs19
+http://14.102.123.50:4000/play/a05g
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Sony Ten 3 HD-Rs19
+http://14.102.123.50:4000/play/a046
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Sony Ten 5 HD-Rs19
+http://14.102.123.50:4000/play/a040
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SonyBBCearthHD-Rs19
+http://14.102.123.50:4000/play/a05b
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Sports18 1 HD-Rs10
+http://14.102.123.50:4000/play/a048
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Star GOLD HD -Rs 19
+http://14.102.123.50:4000/play/a058
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Star Gold 2- Rs 2
+http://14.102.123.50:4000/play/a05o
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Star Gold Romance- Rs 2
+http://14.102.123.50:4000/play/a05n
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Star Gold Thrills- Rs 2
+http://14.102.123.50:4000/play/a05m
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Star Plus HD -Rs 19
+http://14.102.123.50:4000/play/a04t
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Star Pravah HD-Rs19
+http://14.102.123.50:4000/play/a074
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Star Sports 3-SD@
+http://14.102.123.50:4000/play/a0gp
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Star Utsav-50p
+http://14.102.123.50:4000/play/a051
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", StarGold SelHD-Rs8
+http://14.102.123.50:4000/play/a05a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", StarMovieSelHD-Rs19
+http://14.102.123.50:4000/play/a04d
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", StarS1 HindiHD-Rs19
+http://14.102.123.50:4000/play/a041
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", StarSportSL1HD-Rs19
+http://14.102.123.50:4000/play/a05e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", StarSportSL2HD-Rs10
+http://14.102.123.50:4000/play/a05f
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", StarSports1 HD-Rs19
+http://14.102.123.50:4000/play/a0hm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", StarSports2 HD-Rs19
+http://14.102.123.50:4000/play/a03o
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", StarSuvarnaHD-Rs19
+http://14.102.123.50:4000/play/a0df
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TLC HD- Rs3
+http://14.102.123.50:4000/play/a049
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", VIJAY HD- Rs 19
+http://14.102.123.50:4000/play/a06o
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE ANMOL-10p
+http://14.102.123.50:4000/play/a054
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE BANGLA@
+http://14.102.123.50:4000/play/a0gk
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE BOLLYWOOD-Rs3
+http://14.102.123.50:4000/play/a05p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE CINEMA HD-Rs 19
+http://14.102.123.50:4000/play/a055
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE Cafe HD - Rs10
+http://14.102.123.50:4000/play/a04a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE KERALAM HD@
+http://14.102.123.50:4000/play/a0hk
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE MARATHI HD-Rs 19
+http://14.102.123.50:4000/play/a06n
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE TALKIES HD-Rs 19
+http://14.102.123.50:4000/play/a06l
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ZEE TV HD-Rs 19
+http://14.102.123.50:4000/play/a04u
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Zoom - 50p
+http://14.102.123.50:4000/play/a065
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", bindass - 10p
+http://14.102.123.50:4000/play/a050
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", colors rishtey-Rs1
+http://14.102.123.50:4000/play/a04z
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", colorsBanglaHD-Rs14
+http://14.102.123.50:4000/play/a072
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", colorsInfintyHD-Rs9
+http://14.102.123.50:4000/play/a05h
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", hungama tv-Rs 1
+http://14.102.123.50:4000/play/a05u
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", nick - Rs 6
+http://14.102.123.50:4000/play/a05w
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", nick HD+- Rs 10
+http://14.102.123.50:4000/play/a05i
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="TLL LOCAL HD",MM TV Madurai
 http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sAX8_CgMYbD7UUpnZh5fJHzmQT_w4RwjlKJZwIg-GKaWI6iZsuWXhzKsyDB-0WlHVIHC=w240-h480-rw" group-title="TLL MUSIC",MEN TV
