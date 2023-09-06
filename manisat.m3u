@@ -45,6 +45,9 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=826&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="â— LOKIIPTV â— News",Puthiya Thalimurai 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=677&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="â— LOKIIPTV â— News",Kalaignar Seithigal  
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=1210&e=.m3u8
+
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="â— LOKIIPTV â— News",Raj News 24x7 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=767&e=.m3u8
 
@@ -105,6 +108,8 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=970&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="â— LOKIIPTV â— Entertainment",Vaanavil TV 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=971&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="â— LOKIIPTV â— Entertainment",Kalaignar TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=1209&e=.m3u8
 
 
 
