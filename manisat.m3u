@@ -121,7 +121,8 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=971&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="â— LOKIIPTV â— Entertainment",Kalaignar TV 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=1209&e=.m3u8
 
-
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="â— LOKIIPTV â— Movies",Zee Thirai 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=2256&e=.m3u8
 
 
 
