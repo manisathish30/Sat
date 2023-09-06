@@ -66,6 +66,12 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=727&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="â— LOKIIPTV â— Music",Raj Musix 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=748&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="â— LOKIIPTV â— Entertainment",Peppers TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=796&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="â— LOKIIPTV â— Music",Tunes 6 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=803&e=.m3u8
+
 
 
 
