@@ -33,6 +33,9 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=671&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="â— LOKIIPTV â— News",News7 Tamil 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=673&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="â— LOKIIPTV â— News",Thanthi TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=830&e=.m3u8
+
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" group-title="â— LOKIIPTV â— News",Sun News 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=676&e=.m3u8
 
