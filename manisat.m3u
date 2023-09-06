@@ -5,6 +5,14 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=896&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="â— LOKIIPTV â— Entertainment",Zee Tamil 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=628&e=.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SUN MUSIC HD-Rs19
+http://14.102.123.50:4000/play/a071
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SUN TV HD-Rs 19
+http://14.102.123.50:4000/play/a06z
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", VIJAY HD- Rs 19
+http://14.102.123.50:4000/play/a06o
 
 
 
