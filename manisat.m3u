@@ -42,8 +42,29 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=677&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="â— LOKIIPTV â— Movies",Sun Life 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=682&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="â— LOKIIPTV â— News",Raj News 24x7 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=767&e=.m3u8
+
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="â— LOKIIPTV â— Movies",Raj Digital Plus 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=683&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="â— LOKIIPTV â— Entertainment",Polimer TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=705&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="â— LOKIIPTV â— Entertainment",Raj TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=707&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="â— LOKIIPTV â— Entertainment",Makkal TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=708&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="â— LOKIIPTV â— Entertainment",Adithya TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=709&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="â— LOKIIPTV â— Entertainment",Vasanth TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=727&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="â— LOKIIPTV â— Music",Raj Musix 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=748&e=.m3u8
 
 
 
