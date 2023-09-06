@@ -5,6 +5,21 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=896&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="â— LOKIIPTV â— Entertainment",Zee Tamil 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=628&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="â— LOKIIPTV â— Movies",J Movies 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=417&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="â— LOKIIPTV â— News",Jaya Plus 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=418&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="â— LOKIIPTV â— Entertainment",Jaya TV HD 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=419&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="â— LOKIIPTV â— Music",Jaya Max 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=420&e=.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SUN MUSIC HD-Rs19
 http://14.102.123.50:4000/play/a071
 
