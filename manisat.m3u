@@ -36,17 +36,20 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=673&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" group-title="â— LOKIIPTV â— News",Sun News 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=676&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="â— LOKIIPTV â— News",Malai Murasu 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=826&e=.m3u8
+
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="â— LOKIIPTV â— News",Puthiya Thalimurai 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=677&e=.m3u8
-
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="â— LOKIIPTV â— Movies",Sun Life 
-https://hiskidxd.com/T5/JIOTV/app/live.php?id=682&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="â— LOKIIPTV â— News",Raj News 24x7 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=767&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="â— LOKIIPTV â— Movies",Raj Digital Plus 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=683&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="â— LOKIIPTV â— Movies",Sun Life 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=682&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="â— LOKIIPTV â— Entertainment",Polimer TV 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=705&e=.m3u8
@@ -72,6 +75,8 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=796&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="â— LOKIIPTV â— Music",Tunes 6 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=803&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="â— LOKIIPTV â— Entertainment",Puthu Yugam 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=824&e=.m3u8
 
 
 
