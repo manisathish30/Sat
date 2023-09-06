@@ -51,6 +51,13 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=677&e=.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="â— LOKIIPTV â— News",Kalaignar Seithigal  
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=1210&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="â— LOKIIPTV â— News",News J 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=1515&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="â— LOKIIPTV â— Entertainment",Moon TV 
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=1518&e=.m3u8
+
+
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="â— LOKIIPTV â— News",Raj News 24x7 
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=767&e=.m3u8
 
