@@ -24,10 +24,14 @@ http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="Tamil Streams",Rasi Movies
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/Rasi Classic HD-2 (1).png" group-title="Tamil Streams",Rasi Classic
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="Tamil Streams",Rasi Music
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Streams",Rasi Hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Athavan Tv
 https://telegram-bot-ttl.thirumurthy91.repl.co/athavantv
@@ -98,8 +102,7 @@ https://1cloud.digital/starhd/starhd.m3u8
 #EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/04/MARMUS.webp" group-title="TLL MUSIC",3Star TV
 http://1cloud.digital/starhd/starhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/Rasi Classic HD-2 (1).png" group-title="Tamil Streams",Rasi Classic
-http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/04/vaanamtv.png" group-title="TLL MUSIC",Vaanam TV
 http://1cloud.digital/starhd/starhd.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/04/vaanamtv.png" group-title="TLL MUSIC",Vaanam TV
