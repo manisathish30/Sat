@@ -15,6 +15,11 @@ https://singamcloud.in/luckytvtvm/luckytvtvm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="TLL MUSIC",ISAI SARAL TV
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
 #EXTINF:-1 group-title="Tamil",VijaySupertv
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=155875&extension=m3u8&play_token=19lN2YqIw2.
 
@@ -290,10 +295,7 @@ https://iptelevision.in/hls/nsktv.m3u8
 http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/csIn__9Eo1w9yyxHztTkzL6inSdTSMl8g3deaqsgODVxs5aOBugag_Th9P1F2qKyYQ=w240-h480-rw" group-title="TLL LOCAL HD",Hai TV
 http://applelive.in/haitv/haitv.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
-http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
-http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (13).png" group-title="TLL LOCAL HD",Kanchi TV
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.FOA1lPQnKwUgGOmiywvo1gHaHa&pid=Api&P=0&h=180" group-title="TLL LOCAL HD",KanchiMedia TV
@@ -607,25 +609,25 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
 #EXTINF:-1 group-title="Local",ATN media
 http://indiamatrix.in:80/atn/atn.m3u8
-#EXTINF:-1 group-title="Local",ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¤ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¿ ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¨ÃƒÆ’ Ãƒâ€šÃ‚Â¯ÃƒÂ¢Ã¢â€šÂ¬ ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â²ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚ÂÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â²ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€¹Ã¢â‚¬  ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€¦Ã‚Â¸ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€¹Ã¢â‚¬ ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â®ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚ÂÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¸ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚Â
+#EXTINF:-1 group-title="Local",Nellai tv
 http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
 #EXTINF:-1 group-title="Local",Sun star
 http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
 #EXTINF:-1 group-title="Movies",THARUN MOVIES
 http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
-#EXTINF:-1 group-title="Local",ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â²ÃƒÆ’ Ãƒâ€šÃ‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚ÂªÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚Â ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚ÂµÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¿ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¯ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚Â
+#EXTINF:-1 group-title="Local",Leaf
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
-#EXTINF:-1 group-title="Local",ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚ÂµÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€¦Ã‚Â¡ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¨ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚ÂÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¤ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚Â
+#EXTINF:-1 group-title="Local",Vasantham
 http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
 #EXTINF:-1 group-title="Local",G TV
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
 #EXTINF:-1 group-title="Local",ASHOKA TV
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
-#EXTINF:-1 group-title="Local",ÃƒÆ’ Ãƒâ€šÃ‚Â®ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚ÂªÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¿ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¨ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¯ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¾ ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â®ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¿ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¯ÃƒÆ’ Ãƒâ€šÃ‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€¦Ã‚Â¡ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¿ÃƒÆ’ Ãƒâ€šÃ‚Â®ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚Â
+#EXTINF:-1 group-title="Local",Purple
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="Local",ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€¦Ã‚Â¡ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â¿ÃƒÆ’ Ãƒâ€šÃ‚Â®ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚ÂÃƒÆ’ Ãƒâ€šÃ‚Â®ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â®ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€šÃ‚Â
+#EXTINF:-1 group-title="Local",singam
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1 group-title="Local",ÃƒÆ’ Ãƒâ€šÃ‚Â®ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€šÃ‚Â²ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€¹Ã¢â‚¬  ÃƒÆ’ Ãƒâ€šÃ‚Â®ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ÃƒÆ’ Ãƒâ€šÃ‚Â®Ãƒâ€¦Ã‚Â¡ÃƒÆ’ Ãƒâ€šÃ‚Â¯Ãƒâ€¹Ã¢â‚¬
+#EXTINF:-1 group-title="Local",Kalaisai
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
 #EXTINF:-1 group-title="Music",M music
 https://mntv.livebox.co.in/musichls/live.m3u8
