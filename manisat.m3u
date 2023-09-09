@@ -9,8 +9,25 @@ http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sAX8_CgMYbD7UUpnZh5fJHzmQT_w4RwjlKJZwIg-GKaWI6iZsuWXhzKsyDB-0WlHVIHC=w240-h480-rw" group-title="TLL MUSIC",MEN TV
 https://1cloud.digital/mentv/mentvhd.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Lucky tv
+https://singamcloud.in/luckytvtvm/luckytvtvm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="TLL MUSIC",ISAI SARAL TV
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
 #EXTINF:-1 group-title="Tamil",VijaySupertv
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=155875&extension=m3u8&play_token=19lN2YqIw2.
+
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="Tamil Streams",Rasi TV
+http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Tamil Streams",Rasi Tamil
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="Tamil Streams",Rasi Movies
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="Tamil Streams",Rasi Music
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Streams",Rasi Hollywood
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
 
 #EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Athavan Tv
 https://telegram-bot-ttl.thirumurthy91.repl.co/athavantv
@@ -80,16 +97,7 @@ http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 https://1cloud.digital/starhd/starhd.m3u8
 #EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/04/MARMUS.webp" group-title="TLL MUSIC",3Star TV
 http://1cloud.digital/starhd/starhd.m3u8
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="Tamil Streams",Rasi TV
-http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Tamil Streams",Rasi Tamil
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="Tamil Streams",Rasi Movies
-http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="Tamil Streams",Rasi Music
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Streams",Rasi Hollywood
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/Rasi Classic HD-2 (1).png" group-title="Tamil Streams",Rasi Classic
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/04/vaanamtv.png" group-title="TLL MUSIC",Vaanam TV
@@ -113,8 +121,7 @@ https://1cloud.digital/adhavan/colours.m3u8
 https://1cloud.digital/aadhavantv/adhavanmdu.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3PYgU3hIgngL5RN4xy5ReWye32eYDke-2XghhbFF4SJWH4-z41FNvZXD_fhmYhdgsRc=w240-h480-rw" group-title="TLL MUSIC",King TV
 http://bmlive.net:8000/kingtvhd/kingtvlive/bms.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="TLL MUSIC",ISAI SARAL TV
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GDQkxdYrv0o/maxresdefault.jpg" group-title="TLL MUSIC",VP Classic TV
 https://singamcloud.in/vpclassic/vpclassic/index.m3u8
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/NEW 80 LOGO.png" group-title="TLL MUSIC",NEWS80 TV
