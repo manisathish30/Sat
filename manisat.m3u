@@ -1,7 +1,8 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" group-title=SK",SK TV
+http://tv2.massstream.net/Masstv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="TLL LOCAL HD",MM TV Madurai
@@ -20,8 +21,7 @@ http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="Tamil",VijaySupertv
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=155875&extension=m3u8&play_token=19lN2YqIw2.
+
 
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="Tamil Streams",Rasi TV
 http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
@@ -68,8 +68,7 @@ http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Analai Express cinema HD
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",MASS TAMIL HD TV
-http://tv2.massstream.net/Masstv/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â¤Ãƒ Ã‚Â®Ã‚Â¿",Sivan TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â¤Ãƒ Ã‚Â®Ã‚Â¿",Swastik
@@ -1705,6 +1704,9 @@ https://hiskidxd.com/T5/JIOTV/app/live.php?id=2256&e=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SUN MUSIC HD-Rs19
 http://14.102.123.50:4000/play/a071
+
+#EXTINF:-1 group-title="Tamil",VijaySupertv
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=155875&extension=m3u8&play_token=19lN2YqIw2.
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SUN TV HD-Rs 19
 http://14.102.123.50:4000/play/a06z
