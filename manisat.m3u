@@ -21,7 +21,8 @@ http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
+http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="Tamil Streams",Rasi TV
 http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
@@ -201,8 +202,7 @@ http://bmlive.net:8000/appletv/jjmax/bms.m3u8
 https://live1.sscloud7.com/jrtv.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",Bhakthi Tamil TV
 http://bmlive.net:8000/stream/bakthitamil/bms.m3u8?hls_ctx=29820e59
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
-http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MHI6vgSXrB0JXQK9F2l2T1A_d8euTYBRiott9ucIklNHNHtVoDNx7belH2_rPx_pBqs=w240-h480-rw" group-title="TLL LOCAL HD",Chennai TV
 http://notvstream.in/chennaiitv/chennaiitv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd329ca-NF9bruFohLzZjnS05kznLqLkbPdPZT3LiHej51McAnySNIRA9M6bL1BHALZcM&usqp=CAU" group-title="TLL LOCAL HD",R TV
