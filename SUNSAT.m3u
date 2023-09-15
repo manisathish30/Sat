@@ -1979,6 +1979,60 @@ http://starshare.live:8080/live/sixson471/470405471/23321.ts
 
 
 
+#EXTM3U 
+#EXTINF: -1 tvg-id="896" tvg-name="Sun TV HD" tvg-chno="896" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", Sun TV HD
+https://m3u-editor.com/serve/sunnxtm3u/931311958
+#EXTINF: -1 tvg-id="678" tvg-name="Udaya Movies" tvg-chno="678" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="SUNNXT-@SERVERBACKUP202323", Udaya Movies
+https://m3u-editor.com/serve/sunnxtm3u/931311980
+#EXTINF: -1 tvg-id="709" tvg-name="Adithya TV" tvg-chno="709" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="SUNNXT-@SERVERBACKUP202323", Adithya TV
+https://m3u-editor.com/serve/sunnxtm3u/931311993
+#EXTINF: -1 tvg-id="729" tvg-name="Gemini Comedy" tvg-chno="729" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="SUNNXT-@SERVERBACKUP202323", Gemini Comedy
+https://m3u-editor.com/serve/sunnxtm3u/931311997
+#EXTINF: -1 tvg-id="733" tvg-name="Udaya Comedy" tvg-chno="733" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Comedy.png" group-title="SUNNXT-@SERVERBACKUP202323", Udaya Comedy
+https://m3u-editor.com/serve/sunnxtm3u/931311999
+#EXTINF: -1 tvg-id="897" tvg-name="Gemini TV HD" tvg-chno="897" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", Gemini TV HD
+https://m3u-editor.com/serve/sunnxtm3u/931312009
+#EXTINF: -1 tvg-id="901" tvg-name="Udaya HD" tvg-chno="901" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", Udaya HD
+https://m3u-editor.com/serve/sunnxtm3u/931312010
+#EXTINF: -1 tvg-id="1669" tvg-name="Sun Bangla" tvg-chno="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="SUNNXT-@SERVERBACKUP202323", Sun Bangla
+https://m3u-editor.com/serve/sunnxtm3u/931312040
+#EXTINF: -1 tvg-id="1754" tvg-name="Surya Movies" tvg-chno="1754" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="SUNNXT-@SERVERBACKUP202323", Surya Movies
+https://m3u-editor.com/serve/sunnxtm3u/931312043
+#EXTINF: -1 tvg-id="2424" tvg-name="Sun Marathi" tvg-chno="2424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="SUNNXT-@SERVERBACKUP202323", Sun Marathi
+https://m3u-editor.com/serve/sunnxtm3u/931312060
+#EXTINF: -1 tvg-id="682" tvg-name="Sun Life" tvg-chno="682" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="SUNNXT-@SERVERBACKUP202323", Sun Life
+https://m3u-editor.com/serve/sunnxtm3u/931312070
+#EXTINF: -1 tvg-id="684" tvg-name="Gemini Life" tvg-chno="684" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="SUNNXT-@SERVERBACKUP202323", Gemini Life
+https://m3u-editor.com/serve/sunnxtm3u/931312072
+#EXTINF: -1 tvg-id="747" tvg-name="Surya Music" tvg-chno="747" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="SUNNXT-@SERVERBACKUP202323", Surya Music
+https://m3u-editor.com/serve/sunnxtm3u/931312077
+#EXTINF: -1 tvg-id="894" tvg-name="KTV HD" tvg-chno="894" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", KTV HD
+https://m3u-editor.com/serve/sunnxtm3u/931312083
+#EXTINF: -1 tvg-id="898" tvg-name="Gemini Music HD" tvg-chno="898" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", Gemini Music HD
+https://m3u-editor.com/serve/sunnxtm3u/931312085
+#EXTINF: -1 tvg-id="899" tvg-name="Gemini Movies HD" tvg-chno="899" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", Gemini Movies HD
+https://m3u-editor.com/serve/sunnxtm3u/931312086
+#EXTINF: -1 tvg-id="555" tvg-name="Chintu TV" tvg-chno="555" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="SUNNXT-@SERVERBACKUP202323", Chintu TV
+https://m3u-editor.com/serve/sunnxtm3u/931314382
+#EXTINF: -1 tvg-id="556" tvg-name="Kochu TV" tvg-chno="556" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="SUNNXT-@SERVERBACKUP202323", Kochu TV
+https://m3u-editor.com/serve/sunnxtm3u/931314383
+#EXTINF: -1 tvg-id="557" tvg-name="Chutti TV" tvg-chno="557" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="SUNNXT-@SERVERBACKUP202323", Chutti TV
+https://m3u-editor.com/serve/sunnxtm3u/931314384
+#EXTINF: -1 tvg-id="558" tvg-name="Kushi TV" tvg-chno="558" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png" group-title="SUNNXT-@SERVERBACKUP202323", Kushi TV
+https://m3u-editor.com/serve/sunnxtm3u/931314385
+#EXTINF: -1 tvg-id="744" tvg-name="Udaya Music" tvg-chno="744" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png" group-title="SUNNXT-@SERVERBACKUP202323", Udaya Music
+https://m3u-editor.com/serve/sunnxtm3u/931317144
+#EXTINF: -1 tvg-id="895" tvg-name="Sun Music HD" tvg-chno="895" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", Sun Music HD
+https://m3u-editor.com/serve/sunnxtm3u/931317981
+#EXTINF: -1 tvg-id="900" tvg-name="Surya HD" tvg-chno="900" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", Surya HD
+https://m3u-editor.com/serve/sunnxtm3u/931317985
+#EXTINF: -1 tvg-id="1662" tvg-name="Surya Comedy" tvg-chno="1662" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="SUNNXT-@SERVERBACKUP202323", Surya Comedy
+https://m3u-editor.com/serve/sunnxtm3u/931318339
+
+
+
+
+
 
 
 
