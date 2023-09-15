@@ -4125,6 +4125,53 @@ https://serverbackupchannel.xyz/jiotvchannel/autoq.php?c=ISKCON_Bangalore&e=.m3u
 
 
 
+#EXTM3U 
+#EXTINF: -1 tvg-id="ext" tvg-name="Disney Jr.-Rs 4" group-title="kids-@SERVERBACKUP202323", Disney Jr.-Rs 4
+http://103.61.73.220:8000/play/a05y
+#EXTINF: -1 tvg-id="ext" tvg-name="Disney-Rs 10" group-title="kids-@SERVERBACKUP202323", Disney-Rs 10
+http://103.61.73.220:8000/play/a05v
+#EXTINF: -1 tvg-id="ext" tvg-name="KidsActivRhyme-Rs45" group-title="kids-@SERVERBACKUP202323", Discovery kids
+http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=543504&extension=ts&play_token=0SVgpduEQj
+#EXTINF: -1 tvg-id="ext" tvg-name="KidsActivToons-Rs45" group-title="kids-@SERVERBACKUP202323", Super Hungama
+http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=543210&extension=ts&play_token=yhrrH2Oj40
+#EXTINF: -1 tvg-id="ext" tvg-name="Nick Jr.- Rs 1" group-title="kids-@SERVERBACKUP202323", Nick Jr.- Rs 1
+http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=454402&extension=ts&play_token=aIgt8MH6Ue
+#EXTINF: -1 tvg-id="ext" tvg-name="Pogo - Rs 4.25" audio-track="http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=543318&extension=ts&play_token=cmACly6jhu" group-title="kids-@SERVERBACKUP202323", Pogo - Rs 4.25
+http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=440449&extension=ts&play_token=4MpjUKj9sT
+#EXTINF: -1 tvg-id="ext" tvg-name="hungama tv-Rs 1" group-title="kids-@SERVERBACKUP202323", hungama tv-Rs 1
+http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=440679&extension=ts&play_token=S5B3TSr7Ar
+#EXTINF: -1 tvg-id="ext" tvg-name="nick - Rs 6" audio-track="http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=437659&extension=ts&play_token=fjdyS1o8Ex" group-title="kids-@SERVERBACKUP202323", nick - Rs 6
+http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=437659&extension=ts&play_token=fjdyS1o8Ex
+#EXTINF: -1 tvg-id="ext" tvg-name="nick HD+- Rs 10" group-title="kids-@SERVERBACKUP202323", nick HD+- Rs 10
+http://zalhdplus.com/play/live.php?mac=00:1A:79:57:8B:22&stream=441204&extension=ts&play_token=ZUTyJwuXEy
+#EXTINF: -1 tvg-id="ext" tvg-name="Cartoon NW-Rs4.25" group-title="kids-@SERVERBACKUP202323", Cartoon NW-Rs4.25
+http://zalhdplus.com/play/live.php?mac=00:1A:79:62:64:33&stream=543556&extension=ts&play_token=WL6WEBWwEN
+#EXTINF: -1 tvg-id="ext" tvg-name="Sony Yay- Rs 3" group-title="Other channel", Sony Yay- Rs 3
+http://103.61.73.220:8000/play/a0ev
+#EXTINF: -1 tvg-id="ext" tvg-name="SONIC- Rs 2" group-title="Other channel", SONIC- Rs 2
+http://103.61.73.220:8000/play/a05z
+#EXTINF: -1 tvg-id="ext" tvg-name="Disney Jr.-Rs 4" group-title="Other channel", Disney Jr.-Rs 4
+http://103.61.73.220:8000/play/a05y
+#EXTINF: -1 tvg-id="ext" tvg-name="Disney-Rs 10" group-title="Other channel", Disney-Rs 10
+http://103.61.73.220:8000/play/a05v
+#EXTINF: -1 tvg-id="ext" tvg-name="KidsActivRhyme-Rs45" group-title="Other channel", KidsActivRhyme-Rs45
+http://103.61.73.220:8000/play/a0e6
+#EXTINF: -1 tvg-id="ext" tvg-name="KidsActivToons-Rs45" group-title="Other channel", KidsActivToons-Rs45
+http://103.61.73.220:8000/play/a0ep
+#EXTINF: -1 tvg-id="ext" tvg-name="Nick Jr.- Rs 1" group-title="Other channel", Nick Jr.- Rs 1
+http://103.61.73.220:8000/play/a063
+#EXTINF: -1 tvg-id="ext" tvg-name="Pogo - Rs 4.25" group-title="Other channel", Pogo - Rs 4.25
+http://103.61.73.220:8000/play/a060
+#EXTINF: -1 tvg-id="ext" tvg-name="RENGONI-Free" group-title="Other channel", RENGONI-Free
+http://103.61.73.220:8000/play/a0di
+#EXTINF: -1 tvg-id="ext" tvg-name="hungama tv-Rs 1" group-title="Other channel", hungama tv-Rs 1
+http://103.61.73.220:8000/play/a05u
+#EXTINF: -1 tvg-id="ext" tvg-name="nick - Rs 6" group-title="Other channel", nick - Rs 6
+http://103.61.73.220:8000/play/a05w
+#EXTINF: -1 tvg-id="ext" tvg-name="nick HD+- Rs 10" group-title="Other channel", nick HD+- Rs 10
+http://103.61.73.220:8000/play/a05i
+#EXTINF: -1 tvg-id="ext" tvg-name="Cartoon NW-Rs4.25" group-title="Other channel", Cartoon NW-Rs4.25
+http://103.61.73.220:8000/play/a05t
 
 
 
