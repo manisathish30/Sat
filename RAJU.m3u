@@ -1,3 +1,32 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title=SK-TV",SAT-SK TV
+http://tv2.massstream.net/Masstv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="TLL LOCAL HD",MM TV Madurai
+http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sAX8_CgMYbD7UUpnZh5fJHzmQT_w4RwjlKJZwIg-GKaWI6iZsuWXhzKsyDB-0WlHVIHC=w240-h480-rw" group-title="TLL MUSIC",MEN TV
+https://1cloud.digital/mentv/mentvhd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Lucky tv
+https://singamcloud.in/luckytvtvm/luckytvtvm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="TLL MUSIC",ISAI SARAL TV
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
+http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="Tamil Streams",Rasi TV
+http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
+
 #EXTM3U 
 #EXTINF: -1 tvg-id="896" tvg-name="Sun TV HD" tvg-chno="896" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="SUNNXT-@SERVERBACKUP202323", Sun TV HD
 https://m3u-editor.com/serve/sunnxtm3u/931311958
