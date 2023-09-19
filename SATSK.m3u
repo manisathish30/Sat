@@ -5,6 +5,9 @@
 https://iptelevision.in/hls/nsktv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZeywc6kuOa2KVarqi-dwUjG87qDkOinvoA&usqp=CAU" group-title=SK-TV",SOORIYAN TV
+https://94.130.236.167:8081/sooriyantv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.pitchbook.com/OSufbDIEOugTlZRBGfp7Ug9MFMp1605446001086_200x200" group-title="TLL LOCAL HD",Media24 HD TV
 http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
 
