@@ -32,8 +32,27 @@ http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
 http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Eye Tamil tv
+https://live.eyetamil.tv/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã…Â¸Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Analai Express cinema HD
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Athavan Tv
+https://telegram-bot-ttl.thirumurthy91.repl.co/athavantv
+
+
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Tamil vision TV
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Tamil 3 TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",aus Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="Tamil Streams",Rasi TV
@@ -51,14 +70,8 @@ http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Athavan Tv
-https://telegram-bot-ttl.thirumurthy91.repl.co/athavantv
-#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Eye Tamil tv
-https://live.eyetamil.tv/tv/index.m3u8
-#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",aus Tamil
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",GTA Tamil
-http://142.44.213.115:8888/gta_tamil/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/ibc.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",IBC Tamil TV
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/bakthi.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â¤Ãƒ Ã‚Â®Ã‚Â¿",IBC Bhakthi TV
@@ -75,10 +88,7 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Vasantham TV
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Tamil vision TV
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",Tamil 3 TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="Ãƒ Ã‚Â®Ã‚ÂªÃƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â¯Ã‚ÂÃƒ Ã‚Â®Ã‚Â¤Ãƒ Ã‚Â®Ã‚Â¿",Sivan TV
