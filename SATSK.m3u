@@ -2,8 +2,11 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title=SK-TV",SAT-SK TV
-http://tv2.massstream.net/Masstv/index.m3u8
+https://iptelevision.in/hls/nsktv.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://image.pitchbook.com/OSufbDIEOugTlZRBGfp7Ug9MFMp1605446001086_200x200" group-title="TLL LOCAL HD",Media24 HD TV
+http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="TLL LOCAL HD",MM TV Madurai
 http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
