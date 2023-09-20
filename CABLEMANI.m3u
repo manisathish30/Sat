@@ -7,8 +7,6 @@ https://iptelevision.in/hls/nsktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",SAT-SK TV
 http://tv2.massstream.net/Masstv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu3YZk2ozvJgDIinjd61RtC1PKlvsaLi1vA&usqp=CAU" group-title=SK-TV",SOORIYAN TV
-https://94.130.236.167:8081/sooriyantv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.pitchbook.com/OSufbDIEOugTlZRBGfp7Ug9MFMp1605446001086_200x200" group-title="TLL LOCAL HD",Media24 HD TV
 http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
@@ -18,11 +16,60 @@ http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sAX8_CgMYbD7UUpnZh5fJHzmQT_w4RwjlKJZwIg-GKaWI6iZsuWXhzKsyDB-0WlHVIHC=w240-h480-rw" group-title="TLL MUSIC",MEN TV
 https://1cloud.digital/mentv/mentvhd.m3u8
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-MOVIES 1 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-MOVIES 1 HD
+http://starshare.live:8080/live/sixson471/470405471/136398.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-MOVIES 2 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-MOVIES 2 HD
+http://starshare.live:8080/live/sixson471/470405471/136399.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-MOVIES 3 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-MOVIES 3 HD
+http://starshare.live:8080/live/sixson471/470405471/136400.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-MOVIES 4 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-MOVIES 4 HD
+http://starshare.live:8080/live/sixson471/470405471/136401.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-MOVIES 5 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-MOVIES 5 HD
+http://starshare.live:8080/live/sixson471/470405471/136402.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-CRIME MOVIES 1 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-CRIME MOVIES 1 HD
+http://starshare.live:8080/live/sixson471/470405471/136419.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-DRAMA MOVIES 1 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-DRAMA MOVIES 1 HD
+http://starshare.live:8080/live/sixson471/470405471/136421.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-DRAMA MOVIES 2 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-DRAMA MOVIES 2 HD
+http://starshare.live:8080/live/sixson471/470405471/136422.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-DRAMA MOVIES 4 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-DRAMA MOVIES 4 HD
+http://starshare.live:8080/live/sixson471/470405471/136424.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-DRAMA MOVIES 5 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-DRAMA MOVIES 5 HD
+http://starshare.live:8080/live/sixson471/470405471/136425.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-ACTION MOVIES 1 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-ACTION MOVIES 1 HD
+http://starshare.live:8080/live/sixson471/470405471/136430.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-ACTION MOVIES 2 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-ACTION MOVIES 2 HD
+http://starshare.live:8080/live/sixson471/470405471/136431.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-ROMANCE MOVIES 1 HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-ROMANCE MOVIES 1 HD
+http://starshare.live:8080/live/sixson471/470405471/136434.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-SIVAJI GANESAN MOVIES HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-SIVAJI GANESAN MOVIES HD
+http://starshare.live:8080/live/sixson471/470405471/136442.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-PARABHU MOVIES HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-PARABHU MOVIES HD
+http://starshare.live:8080/live/sixson471/470405471/136446.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-KARTHI MOVIES HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-KARTHI MOVIES HD
+http://starshare.live:8080/live/sixson471/470405471/136453.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-JAYAM RAVI MOVIES HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-JAYAM RAVI MOVIES HD
+http://starshare.live:8080/live/sixson471/470405471/136454.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL-ARYA MOVIES HD" tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL MOVIES 24/7",TAMIL-ARYA MOVIES HD
+http://starshare.live:8080/live/sixson471/470405471/136455.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu3YZk2ozvJgDIinjd61RtC1PKlvsaLi1vA&usqp=CAU" group-title=SK-TV",SOORIYAN TV
+https://94.130.236.167:8081/sooriyantv/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Lucky tv
 https://singamcloud.in/luckytvtvm/luckytvtvm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="TLL MUSIC",ISAI SARAL TV
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
 
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
@@ -69,7 +116,8 @@ http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="TLL MUSIC",ISAI SARAL TV
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/ibc.png" group-title="Ãƒ Ã‚Â®Ã¢â‚¬Â°Ãƒ Ã‚Â®Ã‚Â²Ãƒ Ã‚Â®Ã¢â‚¬Â¢Ãƒ Ã‚Â®Ã‚Â®Ãƒ Ã‚Â¯Ã‚Â",IBC Tamil TV
