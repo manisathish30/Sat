@@ -14,8 +14,7 @@ http://watchindia.net:8880/live/60427/00546/2083.ts
 http://watchindia.net:8880/live/60427/00546/843.ts
 #EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
 http://watchindia.net:8880/live/60427/00546/844.ts
-#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 1" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 1
-http://watchindia.net:8880/live/60427/00546/846.ts
+
 #EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 2" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 2
 http://watchindia.net:8880/live/60427/00546/2140.ts
 #EXTINF:-1 tvg-id="zeetamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
