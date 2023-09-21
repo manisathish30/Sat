@@ -20,7 +20,8 @@ http://watchindia.net:8880/live/60427/00546/846.ts
 http://watchindia.net:8880/live/60427/00546/2140.ts
 #EXTINF:-1 tvg-id="zeetamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
 http://watchindia.net:8880/live/60427/00546/887.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TAMIL HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-tamil-news-in.png" group-title="India",IN: ZEE TAMIL HD
+http://431273926506624390.of090823.xyz:80/play/vi1205219/46CgjaJV8v/624390.ts
 
 
 
