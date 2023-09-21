@@ -7,14 +7,17 @@ https://iptelevision.in/hls/nsktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",SAT-SK TV
 http://tv2.massstream.net/Masstv/index.m3u8
 
-
-#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="Tamil",Colors Tamil HD
-http://watchindia.net:8880/live/60427/00546/2083.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS TAMIL HD" tvg-logo="http://landiptv.vip:2095/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY6KONKOI9uML-gSPfcUOZrjiQPzci45cnS7S_oYNk57c.png" group-title="India",IN: COLORS TAMIL HD
+http://431273926506614200.of090823.xyz:80/play/vi1205219/46CgjaJV8v/614200.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN TV FHD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn2MGcv4OPdJLpMPCSQbcAUE.png" group-title="India",IN: SUN TV FHD
+http://431273926506597869.of090823.xyz:80/play/vi1205219/46CgjaJV8v/597869.ts
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
 http://watchindia.net:8880/live/60427/00546/843.ts
 #EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
 http://watchindia.net:8880/live/60427/00546/844.ts
 
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="Tamil",KTV HD
+http://watchindia.net:8880/live/60427/00546/845.ts
 #EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 2" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 2
 http://watchindia.net:8880/live/60427/00546/2140.ts
 #EXTINF:-1 tvg-id="zeetamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
