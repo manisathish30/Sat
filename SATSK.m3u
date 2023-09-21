@@ -45,6 +45,9 @@ http://starshare.live:8080/live/sixson471/470405471/5916.ts
 http://starshare.live:8080/live/sixson471/470405471/5917.ts
 
 
+
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Tamil: Zee Tamil (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="TAMIL",Tamil: Zee Tamil (FHD)
+http://starshare.live:8080/live/sixson471/470405471/9971.ts
 #EXTINF:-1 tvg-id="zeetamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
 http://watchindia.net:8880/live/60427/00546/887.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TAMIL HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-tamil-news-in.png" group-title="India",IN: ZEE TAMIL HD
@@ -52,9 +55,9 @@ http://431273926506624390.of090823.xyz:80/play/vi1205219/46CgjaJV8v/624390.ts
 
 
 
+
 #EXTINF:-1 tvg-logo="https://image.pitchbook.com/OSufbDIEOugTlZRBGfp7Ug9MFMp1605446001086_200x200" group-title="TLL LOCAL HD",Media24 HD TV
 http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hF3vqRfyVammSxT6MMUAdf4QReDcDMwZml96IQ1yRo3yWDoz8XYocNwnPgn5kz4IgQ=w240-h480-rw" group-title="TLL LOCAL HD",MM TV Madurai
 http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sAX8_CgMYbD7UUpnZh5fJHzmQT_w4RwjlKJZwIg-GKaWI6iZsuWXhzKsyDB-0WlHVIHC=w240-h480-rw" group-title="TLL MUSIC",MEN TV
