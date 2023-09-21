@@ -8,6 +8,15 @@ https://iptelevision.in/hls/nsktv.m3u8
 http://tv2.massstream.net/Masstv/index.m3u8
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.pitchbook.com/OSufbDIEOugTlZRBGfp7Ug9MFMp1605446001086_200x200" group-title="TLL LOCAL HD",Media24 HD TV
 http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
 
@@ -2060,6 +2069,102 @@ https://m3u-editor.com/serve/sunnxtm3u/931317981
 https://m3u-editor.com/serve/sunnxtm3u/931317985
 #EXTINF: -1 tvg-id="1662" tvg-name="Surya Comedy" tvg-chno="1662" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="SUNNXT-@SERVERBACKUP202323",Surya Comedy
 https://m3u-editor.com/serve/sunnxtm3u/931318339
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
+http://watchindia.net:8880/live/60427/00546/843.ts
+#EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="Tamil",Sun Life
+http://watchindia.net:8880/live/60427/00546/847.ts
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://watchindia.net:8880/live/60427/00546/844.ts
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="Sun News" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png" group-title="Tamil",Sun News
+http://watchindia.net:8880/live/60427/00546/869.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 1" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 1
+http://watchindia.net:8880/live/60427/00546/846.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 2" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 2
+http://watchindia.net:8880/live/60427/00546/2140.ts
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="Tamil",Star Vijay Super
+http://watchindia.net:8880/live/60427/00546/2190.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Adithya TV" tvg-logo="https://watchindia.net/images/channels/tamil/Adithya_TV.png" group-title="Tamil",Adithya TV
+http://watchindia.net:8880/live/60427/00546/855.ts
+#EXTINF:-1 tvg-id="angeltv.in" tvg-name="Angel TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Angel_TV.png" group-title="Tamil",Angel TV HD
+http://watchindia.net:8880/live/60427/00546/862.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Captain News" tvg-logo="https://watchindia.net/images/channels/tamil/Captain_News.png" group-title="Tamil",Captain News
+http://watchindia.net:8880/live/60427/00546/878.ts
+#EXTINF:-1 tvg-id="captain.in" tvg-name="Captain TV" tvg-logo="https://watchindia.net/images/channels/tamil/Captain_TV.png" group-title="Tamil",Captain TV
+http://watchindia.net:8880/live/60427/00546/876.ts
+#EXTINF:-1 tvg-id="chuttitv.in" tvg-name="Chutti TV" tvg-logo="https://watchindia.net/images/channels/tamil/Chutti_TV.png" group-title="Tamil",Chutti TV
+http://watchindia.net:8880/live/60427/00546/882.ts
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="Tamil",Colors Tamil HD
+http://watchindia.net:8880/live/60427/00546/2083.ts
+#EXTINF:-1 tvg-id="discoverytamil.in" tvg-name="Discovery Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Discovery.png" group-title="Tamil",Discovery Tamil
+http://watchindia.net:8880/live/60427/00546/2085.ts
+#EXTINF:-1 tvg-id="isaiaruvi.in" tvg-name="Isaiaruvi TV" tvg-logo="https://watchindia.net/images/channels/tamil/Isaiaruvi_TV.png" group-title="Tamil",Isaiaruvi TV
+http://watchindia.net:8880/live/60427/00546/2149.ts
+#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Max.png" group-title="Tamil",Jaya Max
+http://watchindia.net:8880/live/60427/00546/852.ts
+#EXTINF:-1 tvg-id="jayamovies.in" tvg-name="Jaya Movie" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Movie.png" group-title="Tamil",Jaya Movie
+http://watchindia.net:8880/live/60427/00546/849.ts
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Plus.png" group-title="Tamil",Jaya Plus
+http://watchindia.net:8880/live/60427/00546/850.ts
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title="Tamil",Jaya TV HD
+http://watchindia.net:8880/live/60427/00546/851.ts
+#EXTINF:-1 tvg-id="kalaignartv.in" tvg-name="Kalaignar TV" tvg-logo="https://watchindia.net/images/channels/tamil/Kalaignar_TV.png" group-title="Tamil",Kalaignar TV
+http://watchindia.net:8880/live/60427/00546/2148.ts
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="Tamil",KTV HD
+http://watchindia.net:8880/live/60427/00546/845.ts
+#EXTINF:-1 tvg-id="madhatv.in" tvg-name="Madha TV" tvg-logo="https://watchindia.net/images/channels/tamil/Madha_TV.png" group-title="Tamil",Madha TV
+http://watchindia.net:8880/live/60427/00546/875.ts
+#EXTINF:-1 tvg-id="makkaltv.in" tvg-name="Makkal TV" tvg-logo="https://watchindia.net/images/channels/tamil/Makkal_TV.png" group-title="Tamil",Makkal TV
+http://watchindia.net:8880/live/60427/00546/871.ts
+#EXTINF:-1 tvg-id="murasutv.in" tvg-name="Murasu TV" tvg-logo="https://watchindia.net/images/channels/tamil/Murasu_TV.png" group-title="Tamil",Murasu TV
+http://watchindia.net:8880/live/60427/00546/880.ts
+#EXTINF:-1 tvg-id="nambikkaitv.in" tvg-name="Nambikkai TV" tvg-logo="https://watchindia.net/images/channels/tamil/Nambikkai_TV.png" group-title="Tamil",Nambikkai TV
+http://watchindia.net:8880/live/60427/00546/856.ts
+#EXTINF:-1 tvg-id="news18.in" tvg-name="News 18" tvg-logo="https://watchindia.net/images/channels/tamil/News_18.png" group-title="Tamil",News 18
+http://watchindia.net:8880/live/60427/00546/873.ts
+#EXTINF:-1 tvg-id="news7.in" tvg-name="News 7" tvg-logo="https://watchindia.net/images/channels/tamil/News_7.png" group-title="Tamil",News 7
+http://watchindia.net:8880/live/60427/00546/867.ts
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Tamil" tvg-logo="https://watchindia.net/images/channels/Nick.png" group-title="Tamil",Nick Tamil
+http://watchindia.net:8880/live/60427/00546/2181.ts
+#EXTINF:-1 tvg-id="pepperstv.in" tvg-name="Peppers" tvg-logo="https://watchindia.net/images/channels/tamil/Peppers.png" group-title="Tamil",Peppers
+http://watchindia.net:8880/live/60427/00546/870.ts
+#EXTINF:-1 tvg-id="polimernews.in" tvg-name="Polimer News" tvg-logo="https://watchindia.net/images/channels/tamil/Polimer_News.png" group-title="Tamil",Polimer News
+http://watchindia.net:8880/live/60427/00546/877.ts
+#EXTINF:-1 tvg-id="polimertv.in" tvg-name="Polimer TV" tvg-logo="https://watchindia.net/images/channels/tamil/Polimer_TV.png" group-title="Tamil",Polimer TV
+http://watchindia.net:8880/live/60427/00546/2147.ts
+#EXTINF:-1 tvg-id="puthiyathalaimurai.in" tvg-name="Puthiya Thalaimurai" tvg-logo="https://watchindia.net/images/channels/tamil/Puthiya_Thalaimurai.png" group-title="Tamil",Puthiya Thalaimurai
+http://watchindia.net:8880/live/60427/00546/879.ts
+#EXTINF:-1 tvg-id="puthu.yugam.in" tvg-name="Puthuyugam TV" tvg-logo="https://watchindia.net/images/channels/tamil/Puthu_Yugam.png" group-title="Tamil",Puthuyugam TV
+http://watchindia.net:8880/live/60427/00546/865.ts
+#EXTINF:-1 tvg-id="rajdigitalplus.in" tvg-name="Raj Digital Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Raj_Digital_Plus.png" group-title="Tamil",Raj Digital Plus
+http://watchindia.net:8880/live/60427/00546/857.ts
+#EXTINF:-1 tvg-id="news24x7.in" tvg-name="Raj News Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Raj_News_Tamil.png" group-title="Tamil",Raj News Tamil
+http://watchindia.net:8880/live/60427/00546/853.ts
+#EXTINF:-1 tvg-id="rajtv.in" tvg-name="Raj TV" tvg-logo="https://watchindia.net/images/channels/tamil/Raj_TV_Tamil.png" group-title="Tamil",Raj TV
+http://watchindia.net:8880/live/60427/00546/854.ts
+#EXTINF:-1 tvg-id="sirippoli.in" tvg-name="Sirippoli TV" tvg-logo="https://watchindia.net/images/channels/tamil/Sirippoli_TV.png" group-title="Tamil",Sirippoli TV
+http://watchindia.net:8880/live/60427/00546/2084.ts
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="Sony Yay Tamil" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="Tamil",Sony Yay Tamil
+http://watchindia.net:8880/live/60427/00546/2125.ts
+#EXTINF:-1 tvg-id="srisankaratv.in" tvg-name="Sri Sankara TV" tvg-logo="https://watchindia.net/images/channels/tamil/Sri_Sankara_TV.png" group-title="Tamil",Sri Sankara TV
+http://watchindia.net:8880/live/60427/00546/2164.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Tamil Vision International" tvg-logo="https://watchindia.net/images/channels/tamil/Tamil_Vision_TV.png" group-title="Tamil",Tamil Vision International
+http://watchindia.net:8880/live/60427/00546/863.ts
+#EXTINF:-1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/tamil/Thanthi_News.png" group-title="Tamil",Thanthi TV
+http://watchindia.net:8880/live/60427/00546/860.ts
+#EXTINF:-1 tvg-id="travelxptamil.in" tvg-name="Travel XP Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Travel_XP.png" group-title="Tamil",Travel XP Tamil
+http://watchindia.net:8880/live/60427/00546/872.ts
+#EXTINF:-1 tvg-id="vasanthtv.in" tvg-name="Vasanth TV" tvg-logo="https://watchindia.net/images/channels/tamil/Vasanth_TV.png" group-title="Tamil",Vasanth TV
+http://watchindia.net:8880/live/60427/00546/858.ts
+#EXTINF:-1 tvg-id="vendhartv.in" tvg-name="Vendhar TV" tvg-logo="https://watchindia.net/images/channels/tamil/Vendhar_TV.png" group-title="Tamil",Vendhar TV
+http://watchindia.net:8880/live/60427/00546/2146.ts
+#EXTINF:-1 tvg-id="zeetamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
+http://watchindia.net:8880/live/60427/00546/887.ts
+#EXTINF:-1 tvg-id="zeethirai.in" tvg-name="Zee Thirai" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png" group-title="Tamil",Zee Thirai
+http://watchindia.net:8880/live/60427/00546/2142.ts
 
 
 
