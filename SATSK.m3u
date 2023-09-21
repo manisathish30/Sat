@@ -8,11 +8,18 @@ https://iptelevision.in/hls/nsktv.m3u8
 http://tv2.massstream.net/Masstv/index.m3u8
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="Tamil",Colors Tamil HD
+http://watchindia.net:8880/live/60427/00546/2083.ts
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
+http://watchindia.net:8880/live/60427/00546/843.ts
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://watchindia.net:8880/live/60427/00546/844.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 1" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 1
+http://watchindia.net:8880/live/60427/00546/846.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 2" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 2
+http://watchindia.net:8880/live/60427/00546/2140.ts
+#EXTINF:-1 tvg-id="zeetamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
+http://watchindia.net:8880/live/60427/00546/887.ts
 
 
 
