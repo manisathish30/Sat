@@ -9,6 +9,15 @@ http://tv2.massstream.net/Masstv/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",JIOSPORTS TAMIL
+http://prod-sports-south-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_odi01/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",JIOSPORTS
+http://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8?txSecret=8d0fdcd770e4b2ac59326e759602c255&txTime=645CD758&_s=stream&m=1
+
+
+
+
 
 #EXTINF:-1,IND: TAMIL: Colors_Tamil_HD
 http://xtv.ooo:8080/moonyaar/moonlove/244519
@@ -17,8 +26,7 @@ http://xtv.ooo:8080/moonyaar/moonlove/244635
 #EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="TAMIL: COLORS TAMIL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest?cb=20180222170738" group-title="TAMIL",TAMIL: COLORS TAMIL HD
 http://starshare.live:8080/live/sixson471/470405471/5886.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: SUN TV FHD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn2MGcv4OPdJLpMPCSQbcAUE.png" group-title="India",IN: SUN TV FHD
-http://431273926506597869.of090823.xyz:80/play/vi1205219/46CgjaJV8v/597869.ts
+
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
 http://watchindia.net:8880/live/60427/00546/843.ts
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="TAMIL:SUN TV HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sun-TV-HD-Logo.png" group-title="TAMIL",TAMIL:SUN TV HD
