@@ -10,7 +10,7 @@ http://tv2.massstream.net/Masstv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",JIOSPORTS TAMIL
-http://prod-sports-south-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_odi01/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_indvsaus_odi02/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",JIOSPORTS
 http://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8?txSecret=8d0fdcd770e4b2ac59326e759602c255&txTime=645CD758&_s=stream&m=1
