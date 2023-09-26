@@ -1,11 +1,12 @@
 #EXTM3U SK The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title=SK-TV",SAT-SK TV-1
-http://xtv.ooo:8080/moonyaar/moonlove/369823
+http://starshare.live:8080/live/sixson471/470405471/121372.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title=SK-TV",SAT-SK TV-2
-http://starshare.live:8080/live/sixson471/470405471/121372.ts
+http://xtv.ooo:8080/moonyaar/moonlove/369823
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title=SK-TV",SAT-SK TV-3
 http://starshare.live:8080/live/sixson471/470405471/121335.ts
