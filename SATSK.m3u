@@ -49,7 +49,9 @@ http://xtv.ooo:8080/moonyaar/moonlove/244519
 #EXTINF:-1,VIP IND: Colors Tamil FHD
 http://xtv.ooo:8080/moonyaar/moonlove/244635
 #EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="TAMIL: COLORS TAMIL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest?cb=20180222170738" group-title="TAMIL",TAMIL: COLORS TAMIL HD
-http://starshare.live:8080/live/sixson471/470405471/5886.ts#EXTINF:-1 tvg-id="" tvg-name="STAR TAMIL" tvg-logo="" group-title="SRI LANKA",STAR TAMIL
+http://starshare.live:8080/live/sixson471/470405471/5886.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR TAMIL" tvg-logo="" group-title="SRI LANKA",STAR TAMIL
 http://starshare.live:8080/live/sixson471/470405471/72569.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TAMIL: SUN TV USA" tvg-logo="" group-title="TAMIL",TAMIL: SUN TV USA
