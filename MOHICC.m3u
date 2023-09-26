@@ -1,16 +1,20 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title=SK-TV",SAT-SK TV
-https://iptelevision.in/hls/nsktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title=SK-TV",SAT-SK TV-1
+http://starshare.live:8080/live/sixson471/470405471/136398.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",SAT-SK TV
-http://tv2.massstream.net/Masstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",SAT-SK TV-2
+http://starshare.live:8080/live/sixson471/470405471/136430.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",SAT-SK TV-3
+http://starshare.live:8080/live/sixson471/470405471/136419.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",JIOSPORTS TAMIL
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_indvsaus_odi02/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_indvsaus_odi02/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",JIOSPORTS
 http://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8?txSecret=8d0fdcd770e4b2ac59326e759602c255&txTime=645CD758&_s=stream&m=1
