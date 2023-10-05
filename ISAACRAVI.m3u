@@ -37,6 +37,9 @@ http://starshare.live:8080/live/sixson471/470405471/136419.ts
 
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRI: STAR SPORTS TAMIL 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="CRICKET",CRI: STAR SPORTS TAMIL 1 HD
+http://176.119.29.52/live.ts?channelId=275&Servertvhub&deviceMac=00:1A:79:2E:F0:59&chal-ja-bsdk-Go-home-eat-sleep-and-get-some-rest
 #EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRI: STAR SPORTS TAMIL 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="CRICKET",CRI: STAR SPORTS TAMIL 1 HD
 http://starshare.live:8080/live/sixson471/470405471/9722.ts
 #EXTINF:-1,IND: Star Cricket Tamil HD ( Live Match Only )
