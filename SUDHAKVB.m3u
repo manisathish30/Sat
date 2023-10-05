@@ -33,6 +33,18 @@ http://starshare.live:8080/live/sixson471/470405471/136430.ts
 http://starshare.live:8080/live/sixson471/470405471/136419.ts
 
 
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRI: STAR SPORTS TAMIL 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="CRICKET",CRI: STAR SPORTS TAMIL 1 HD
+http://starshare.live:8080/live/sixson471/470405471/9722.ts
+#EXTINF:-1,IND: Star Cricket Tamil HD ( Live Match Only )
+http://xtv.ooo:8080/moonyaar/moonlove/244636
+#EXTINF:-1,IND: Star Sports 1 Tamil
+http://xtv.ooo:8080/moonyaar/moonlove/244637
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SK-TV",ddSPORTS
 http://bluestartv.biz:80/play/link/db22b65f-9a3b-4a52-bb72-28df74df5303/eyJpdiI6IndyQWRXRW54Vm5HMDdFMEZJcXozWkE9PSIsInZhbHVlIjoibXlqZ0hieExHNlluczFqbStVT2ZIZERHYUNRZkRTcEZPbVFjM1BBZzdLaXJJRkxsZ05lRnJtRWdHRm5qamkzcSIsIm1hYyI6IjY5NTMzYWE0YTc1ODA4YjM2YWYzMjIzMWE2ZDI0ZjE1ZDdhMjUzYzk0NGE4YzlhNmJhOGY4M2Q0Y2VhNjU3OTQiLCJ0YWciOiIifQ==.m3u8
 
@@ -2002,10 +2014,7 @@ http://xtv.ooo:8080/moonyaar/moonlove/244633
 http://xtv.ooo:8080/moonyaar/moonlove/244634
 #EXTINF:-1,VIP IND: Colors Tamil FHD
 http://xtv.ooo:8080/moonyaar/moonlove/244635
-#EXTINF:-1,IND: Star Cricket Tamil HD ( Live Match Only )
-http://xtv.ooo:8080/moonyaar/moonlove/244636
-#EXTINF:-1,IND: Star Sports 1 Tamil
-http://xtv.ooo:8080/moonyaar/moonlove/244637
+
 
 
 
